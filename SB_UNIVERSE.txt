@@ -1,0 +1,1751 @@
+#FIRST OF ALL BEFORE ONSET A PROJECT COMPLY BELOW TIPS:
+	1-PROVIDE A STUDY DESIGN BY CHATGPT, BIOGPT, CLAUDE AI, AND OTHER AI MODELS.
+	2-READ A STUDY FROM A FAMOUS PROFESSOR INRELATED FIELD
+	3-WRITE A STUDY PLAN
+	4-CHECK GITHUB AND PAPER DATABASES
+	5-READ PAPERS OF FAMOUS RESEARCHER IN GOOGLE SCHOLAR
+	6-ROSETTA TUTORIALS
+
+---------------------------
+
+#FAMOUS RESEARCHER:
+	David Baker
+	Sergey Ovchinnikov
+	Abeeb Abiodun Yekeen
+	Samee Ullah
+	Hamid D. Ismail
+	Alexander D. MacKerell Jr
+	Rhiju Das
+	Kalli Kappel
+	Joseph D. Yesselman
+
+---------------------------
+
+#GROUP
+	https://t.me/BioinformaticsVIP_Group
+	https://t.me/+zYgATxVGm384ZGRk
+	@computational_sceince
+	https://t.me/+AL7RKhKS6b4zNzY8
+	https://t.me/joinchat/Cxi2HD8b0kX0Jt6Dg01kpA
+	@ali13024
+	https://t.me/+Ux9_oeiYBRxwDaQD
+	https://t.me/+TUT4kMG1slKB3ZiZ
+
+---------------------------
+
+#DATABASE FOR GENE AND PROTEIN 
+	charmmgui=https://www.charmm-gui.org/
+	zhong lab=https://zhanggroup.org/
+	rcsb=https://www.rcsb.org/
+	KEGG=https://www.genome.jp/kegg/
+	in silico pcr=http://rohsdb.cmb.usc.edu/GBshape/cgi-bin/hgPcr
+	molecular modeliing db=https://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#forms::InterEvDock2
+	online ngs analysis=https://usegalaxy.eu/
+	genome analysis tools db=https://services.healthtech.dtu.dk/
+	https://github.com/proleu/hinge_paper
+	pyCHARMM: Embedding CHARMM Functionality in a Python Framework
+		https://lnkd.in/dUCVeM9J
+		Tutorials: https://lnkd.in/dmUte2Ws
+		Github repo: https://lnkd.in/dvZ4rM_a
+	pae viewer:
+		http://www.subtiwiki.uni-goettingen.de/v4/paeViewerDemo
+	GlycoSHIELD is a simple MD pipeline to generate glycoprotein models
+		webserver: https://lnkd.in/dGtggeYg
+		github: https://lnkd.in/dMsN4_ux
+	Rare coding variant analysis for human diseases across biobanks and ancestries
+	logomotif, a database of transcription factor binding site profiles in bacteria
+		Paper -> https://lnkd.in/gPQHpBZV
+		Code -> https://lnkd.in/gSFj8s9b
+		Database -> https://lnkd.in/gqahkjdS
+	prtoeins familly:
+		cath=http://www.cathdb.info/
+		scop
+	MemProtMD: A Database of Membrane Proteins Embedded in Lipid Bilayers
+	protalign-arg, a method for identification and classification of antibiotic resistance gene using pretrained protein language and alignment scoring-based models
+		Paper -> https://lnkd.in/gTh5nTgG
+		Code -> https://lnkd.in/gRBVaHdD
+	gene expression database=
+		https://www.proteinatlas.org/
+		https://www.hsls.pitt.edu/obrc/index.php?page=URL1048707577
+		https://www.cancer.gov/ccg/research/genome-sequencing/tcga
+	bioinformatics learning=
+		https://hbctraining.github.io/main/		
+	CANcer data analysis Portal=for mrna expression in cancer
+	iLINCS: include transcriptome and proteomic data from cells treated with certain perturbagens and are freely
+	pdCSM-cancer: utilizes structural and molecular information to predict the cytotoxicity of compounds against cancer cell lines. 
+	CellMiner Cross-Database=to investigate the correlation between drugs and genes
+	Breast Cancer Gene Expression Miner=a web-based application that provides an estimate of prognostic value
+	Gene Set Enrichment Analysis (GSEA): a computational method that identifies whether a priori-defined set of genes demonstrates statistically significant, concordant differencesbetween two biological states.
+	cBio Cancer Genomics Portal:an online platform forexploring cancer genomics data
+	CANcer data analysis Portal:an interactive web resource based on level 3 RNA-seq and clinical data of 31 cancer types
+	Enrichr:a web-based tool that allows for the analysis of gene sets in the context of functional annotation databases***
+	bc-GenExminer: a database to assess the prognostic value of a gene.***
+	TFEA:Transcription factor enrichment analysis
+	LinkFinder module of the LinkedOmics: a web portal to examine the co-expression pattern of genes***
+	cBioPortal=analyse gene expression variations in cancer
+	limma:for deg***
+	UALCAN:for rna expression in cancer
+	https://github.com/AspirinCode/awesome-BioMolFold #some AI tools for biomolecules
+	psauron, a ML model for evaluating the quality of protein-coding gene annotations
+		Paper: https://lnkd.in/g5BMizzG
+		Code: https://lnkd.in/gtyZJU8B
+	Metascape:A Gene Annotation & Analysis Resource
+	Comparative Toxicogenomics Database:is a robust, publicly available database that aims to advance understanding about how environmental exposures affect human health. 
+	genemania:for gene function finding
+	MIENTURNET: receiving in input a list of genes and inferring possible evidences of miRNA regulation based on a statistical analysis for over-representation of miRNA-target interactions
+	ChIP-X Enrichment Analysis 3 (ChEA3): is a transcription factor enrichment analysis tool that ranks TFs associated with user-submitted gene sets
+	The Human Metabolome Database (HMDB): is a freely available electronic database containing detailed information about small molecule metabolites found in the human body.
+	topp Gene Suite: accessible at https://toppgene.cchmc.org, serves as a platform for gene list enrichment analysis.
+	TCGAbiolinks:for gene analysis
+	rna seq data=TCGA, ICGC, GEO, Array Express, cBioPortal
+	MIENTURNET: for mirna analysis
+	GEOquery:for geo data download in R
+	sciDAP: a platform for NGS data analysis
+	https://github.com/yazdan59/bioinf	
+---------------------------
+
+#GLYCO
+	deepglycansite, a neural network for predicting carbohydrate binding sites on proteins
+		Paper: https://lnkd.in/gZWpTZWR
+		Code: https://lnkd.in/gkQBkKB9
+	glycoshield:a set of tools and webserver for modeling glycoprotein morphology and structural dynamics
+		Paper -> https://lnkd.in/gGwaJJ4y
+		Code -> https://lnkd.in/gD436k_9
+		Webserver -> www.glycoshield.eu
+	GlycoSHIELD is a simple MD pipeline to generate glycoprotein models
+		webserver: https://lnkd.in/dGtggeYg
+		github: https://lnkd.in/dMsN4_ux
+
+---------------------------
+
+#PYTHON
+	protkit is:an Python lib for structural bioinformatics/protein engineering
+		GitHub -> https://lnkd.in/gX-4jj5g
+		Docs -> https://lnkd.in/gSUX5KzR
+		Home -> https://lnkd.in/gDkbybBn
+		QS Guide -> https://lnkd.in/gGrnYGw3
+	PyPI · The Python Package Index
+	pycom, a python library for large-scale analysis of residue-residue coevolution matrices and their corresponding sequence alignments
+		Paper -> https://lnkd.in/gAXrJyiT
+		Code -> https://lnkd.in/gJK-qtFc
+		Docs -> https://lnkd.in/gsh8dCfR
+		Notebook Tutorials -> https://lnkd.in/gKbGuAtF
+	MolPipeline - python package for processing molecules with RDKit in scikit-learn
+		https://lnkd.in/d46dKd6h
+		preprint: https://lnkd.in/dXH_wKca
+	PDBImages, an open-source command-line tool for automated macromolecular structure image generation by the PDBe team.
+		Paper: https://lnkd.in/gmBHZeuU
+		GitHub: https://lnkd.in/gRSYcfdt
+		npm: https://lnkd.in/gMTenqfh
+	melodia, a Python library for protein structure analysis.
+		Paper: https://lnkd.in/g7acvaAw
+		Code: https://lnkd.in/gHa6DAMJ
+		Colab Examples: https://lnkd.in/g7jk-qye
+	bio2Byte - Tools deployment as a Python package and Galaxy tool to predict protein biophysical properties
+		https://lnkd.in/eZ7vkejx
+
+---------------------------
+
+#PROTEIN
+
+	#PROTEIN DESIGN
+		protein halucination=https://lnkd.in/g5_-2QGB
+		SAMPLE= is an AI agent platform for fully autonomous protein engineering,
+			Paper -> https://lnkd.in/gYyJuifE
+		AlphaDesign 
+			Paper: https://lnkd.in/ggv4eDrY
+		A recently reported binder design pipeline based on Foldseek, ESM-IF1, and AlphaFold ***
+			Paper: https://lnkd.in/gKBcahMx
+			Code: https://lnkd.in/gqJN8XXD
+		Computational design of sequence-specific DNA-binding proteins
+		Computational design of soluble analogues of integral membrane protein structures
+		Design of stimulus-responsive two-state hinge proteins
+		Improving de novo protein binder design with deep learning
+		Stepwise design of pseudosymmetric protein hetero-oligomers
+		De novo design of small beta barrel proteins
+		De novo design of luciferases using deep learning
+		Small-molecule binding and sensing with a designed protein family
+		Machine Learning in Protein Science De Novo Design of Viral Epitope Mimetics with Non-Regular Structural Features
+		Validation of de novo designed water-soluble and transmembrane proteins by in silico folding and melting
+		Efficient and scalable de novo protein design using a relaxed sequence space
+		Computational design of constitutively active cGAS
+		Scaffolding protein functional sites using deep learning
+		De novo protein design by deep network hallucination
+		Structure-based protein design with deep learning
+		Applications of contact predictions to structural biology
+		De novo design of a fluorescence-activating β-barrel
+		Advances of Deep Learning in Protein Science: A Comprehensive Survey
+		Recent Advances in Automated Structure-Based De Novo Drug Design
+		Opportunities and challenges in design and optimization of protein function
+		AlphaFold2 for protein structure prediction: Best practices and critical analyses
+		Machine learning-guided engineering of genetically encoded fluorescent calcium indicators
+		De novo design of drug-binding proteins with predictable binding energy and specificity
+		Diffusion models in protein structure and docking
+		Revival of Bioengineered Proteins as Carriers for Nucleic Acids
+		AI in Cellular Engineering and Reprogramming
+		Design of High Affinity Binders to Convex Protein Target Sites
+		Generative artificial intelligence for de novo protein design
+		EVOLUTION-INSPIRED LOSS FUNCTIONS FOR PROTEIN REPRESENTATION LEARNING
+		Finetuning ProGen2 protein language model for generation of protein sequences from selected protein families.
+		De novo designed proteins neutralize lethal snake venom toxins
+		De novo design of alpha-beta repeat proteins
+		Computational design of soluble and functional membrane protein analogues
+		Deep learning guided design of dynamic proteins
+		Structure prediction of alternative protein conformations
+		EvoPro: A new DL-based method for protein binder design.***
+			Paper: https://lnkd.in/gkYGmyxK
+			Code: https://lnkd.in/gNneiuNn
+		EvoBind
+			Paper: https://lnkd.in/gBV7GH9B
+			Code: https://lnkd.in/ggfn4D2J
+			Notebook: https://lnkd.in/gzt-cgqf
+		difftopo: A new coarse grained protein structure representation method which, when combined with the RFDiffusion framework, generates novel protein folds.
+			Paper -> https://lnkd.in/gXccuFNh
+		Chroma= a diffusion model for protein design developed by Generate:Biomedicines, is now published in Nature and the code is finally available (the preprint was released in December 2022).***
+			Paper: https://lnkd.in/gnHwgHP8
+			Code: https://lnkd.in/gfW-kSxb			
+		FoldingDiff: "Diffusion models of protein structure; trigonometry and attention are all you need!"
+			Paper -> https://lnkd.in/ggnYCQsk
+			GitHub -> https://lnkd.in/giPZzKJi
+		forcegen: A generative model to design proteins with specific mechanical properties
+		Paper -> https://lnkd.in/gW7Du46P
+		GitHub -> https://lnkd.in/guirSCkq
+		Colab notebook -> https://lnkd.in/gqq8-HcS
+		Movie source -> https://lnkd.in/gyyB-UDi
+		diprot: A user-friendly webserver for computational protein design
+			Webserver -> https://lnkd.in/eSYU4dGF
+			Paper -> https://lnkd.in/eGCANawK
+		timed-design, a webserver and CL tool for applying several protein design models
+			Webserver -> https://lnkd.in/eQeMmqmz
+			Paper -> https://lnkd.in/eb3F3Cg9
+			Code -> https://lnkd.in/eyYEP7PW
+		Check out Evo, a long-context foundation model that generalizes across the central dogma of biology: DNA, RNA, and proteins.
+			 Paper -> https://lnkd.in/gnFGaCQp
+			 Blog -> https://lnkd.in/gkR4yaAp
+			 GitHub -> https://lnkd.in/g2iN8dXg
+			 https://colab.research.google.com/github/evo-design/evo/blob/main/scripts/hello_evo.ipynb
+		Efficient and scalable de novo protein design using a relaxed sequence space
+			https://lnkd.in/dPHUQKVg
+			Colab Notebook: https://lnkd.in/dmq5jxin
+		Design of diverse, functional mitochondrial targeting sequences across eukaryotic organisms using variational autoencoder
+		Computational design of de novo bioenergetic membrane proteins
+		Design of functional intrinsically disordered proteins 
+			https://lnkd.in/d6p-JtKE
+		cosann, a context-dependent strategy for enzyme design using deep learning-based structure prediction and sequence selection.
+		solvit, a GNN for predicting protein solubility in E. coli and for optimizing enzyme expression.
+			Paper -> https://lnkd.in/g6wDzj5S
+		Protein Design Using Structure-Prediction Networks: AlphaFold and RoseTTAFold as Protein Structure Foundation Models: 
+			https://cshperspectives.cshlp.org/content/early/2024/03/01/cshperspect.a041472
+		MutComputeX pipeline - enzyme engineering:
+			github: https://lnkd.in/dWpVc4Kp
+		Computational design of soluble functional analogues of integral membrane proteins
+			https://lnkd.in/d_xWqb9y 
+			github repo: https://lnkd.in/d4e-tDq2
+		graf proteins=Computationally designed sensors for endogenous Ras activity reveal signaling effectors within oncogenic granules
+		experimental notebook implementing the the big bang initialization described in:
+			https://colab.research.google.com/github/sokrypton/ColabDesign/blob/gamma/af/examples/predict_bb.ipynb
+		neurofold, a model for designing functional enzyme variants using sequence, structural, and evolutionary information:
+			Preprint -> https://lnkd.in/d7ptD4pZ
+		carbondesign, a method that adapts the success ingredients of AF2 for protein sequence design
+			Paper: https://lnkd.in/gFB5mQcb
+			GitHub: https://lnkd.in/gR8cJQK7
+			Code Ocean: https://lnkd.in/gUHQC7_3
+		Blueprinting extendable nanomaterials with standardized protein blocks
+		Hydrophobic mismatch drives self-organization of designer proteins into synthetic membranes
+			https://doi.org/10.5281/zenodo.10299980
+		spdesign: A method that combines structural sequence profile, fast shape recognition, and pre-trained language models for protein sequence design
+			Paper: https://lnkd.in/gXVurtpE
+			Server & Source Code: https://lnkd.in/gMYwjSgT
+		ptmprediciton: Combining Neural Networks with Rosetta for the prediction and engineering of post-translational modifications
+			Paper: https://lnkd.in/g54SPtyx
+			Code: https://lnkd.in/gmzxds-b		
+		difflinker: an equivariant diffusion model for linker design between molecular fragments to obtain chemically relevant compounds
+			Paper: https://lnkd.in/geFuV--m
+			Code: https://lnkd.in/g8CanqCA
+			Demo (huggingface): https://lnkd.in/gZCQjZy4
+		appraise, a structure-based, physics-informed method to predict, rank binding propensity of engineered proteins to desired targets
+			Paper: https://lnkd.in/geMrHnCq
+			Code: https://lnkd.in/gJTHz7Me
+			Notebook: https://lnkd.in/gMw_N4UE
+		coves, a "simple" model to design functional and diverse combinatorial protein variants 
+			Paper: https://lnkd.in/gR2CaGGA
+			Code: Zenodo https://lnkd.in/gVrCQqYU 
+			GitHub https://lnkd.in/g7b_sY-E
+		ProteinReDiff for protein design:
+			https://lnkd.in/dFnjj2BJ
+			https://lnkd.in/d6aSw_39
+			https://lnkd.in/dv_Hgds8
+			https://lnkd.in/dGXbXtiY
+		FrameFlow:for protein motif-scaffolding
+			Paper: https://lnkd.in/eqfM6SzB
+			Code: https://lnkd.in/e5anSjfq
+			Original FrameFlow Paper: https://lnkd.in/erW3A2Ux
+			Original FrameDiff Paper: https://lnkd.in/e3Z-yU2f
+			FrameDiff Code: https://lnkd.in/eCX48gRE
+		Damietta: A toolkit and webserver for protein design tasks
+			Paper: https://lnkd.in/gHShf9iA
+			Server: https://damietta.de 
+			Manual: https://lnkd.in/gpFXvpX3
+			Damietta Paper: https://lnkd.in/g4kdX2_N
+			Code: https://lnkd.in/gagGYiFA	
+		INSTRUCTPLM, a method for protein design guided by specified structural instructions to generate diverse sequences with varying length, mimicking natural SEQ insertion and deletion
+			Paper: https://lnkd.in/gFHtydp3
+			Code: https://lnkd.in/gb62KF5W	
+		https://github.com/jkoch19/AutoProteinDesign #proten design
+		surfpro, a method for designing functional proteins given a desired interface and associated biochemical properties
+			Paper: https://lnkd.in/g6udQjbi
+			Code: Unavailable
+		prosca, a method and webserver for mining humanized protein scaffolds with desired properties to facilitate rational protein engineering
+			Paper: https://lnkd.in/gWD67G9J
+			Code: https://lnkd.in/gVeFxAMU (seems to be incomplete)
+			Webserver: http://prosca.idrblab.cn/
+			Tutorial: https://lnkd.in/gbcjs3nh
+		RFjoint Inpainting and Protein Hallucination:
+			Paper: https://lnkd.in/gP3C_vNW
+			Code (Hallucination): https://lnkd.in/guRawRJm,
+			Code (Inpainting): https://lnkd.in/gvF5_dwz
+		ProtSSN - Semantical and Topological Protein Encoding Toward Enhanced Bioactivity and Thermostability
+			https://lnkd.in/dZRW4tT2
+			code: https://lnkd.in/d8cPRyKa
+		loop structure design:De novo design of buttressed loops for sculpting protein functions
+			https://github.com/hanlunj/buttressed_loops.git
+		design photosystems:De novo design of proteins housing excitonically coupled chlorophyll special pairs
+			https://github.com/atom-moyer/nerf
+			https://github.com/atom-moyer/getpy
+			https://github.com/atommoyer/stapler
+			https://github.com/atommoyer/stapler
+			https://github.com/willsheffler/rpxdock
+		multiflow, a generative model for protein sequence and structure co-design
+			Paper: https://lnkd.in/gUtM9t7G
+			Code: https://lnkd.in/gZYXhECb
+		genie-2, a generative model for structure-based protein design that sets a new state-of-the-art
+			Paper: https://lnkd.in/gjCKHu_8
+			Code: https://lnkd.in/g674QxeG
+			Genie (version 1) paper: https://lnkd.in/gcgqSNKa
+			Genie (version 1) code: https://lnkd.in/grqDJMdj
+		proteus, a diffusion model for denovo protein backbone generation that surpasses RFdiffusion on multiple metrics
+			Paper: https://lnkd.in/gFPhg4PN
+			Code: https://lnkd.in/gw7UCEZ8
+		foldflow-2, a flow matching model for protein structure generation that outperforms RFdiffusion on multiple metrics and tasks
+			Paper: https://lnkd.in/grDAu6pF
+			Blog: https://lnkd.in/gr9WAR39
+			Code: Unavailable
+			Code for FoldFlow (version 1): https://lnkd.in/gn3VuhPc
+		protscan, a web server for designing favorable proline substitutions into given structures
+			Paper: https://lnkd.in/gAr9HAEN
+			Server: https://lnkd.in/gdM6eq6v
+		GCDM, a diffusion model for 3D molecule generation and optimization
+			Paper: https://lnkd.in/gqqUyyB9
+			Preprint: https://lnkd.in/gDbpXBwd
+			GitHub: https://lnkd.in/gPihHWwm (Code), https://lnkd.in/g4CYn9tN (SBDD experiments)
+		protpardelle, an all-atom diffusion model for generating protein structures
+			Paper: https://lnkd.in/gx_8uu8t
+			Preprint: https://lnkd.in/gQTMYRp2
+			Code (GitHub): https://lnkd.in/gCmDnzJd
+			Web Demo (huggingface): https://lnkd.in/gD8YHzV3
+		af2seq-mpnn, a protocol for the computational design of topologically complex protein folds and soluble analogues of membrane proteins.
+			Preprint: https://lnkd.in/gYZ2-PVQ
+			Paper: https://lnkd.in/gdFAMvfg
+			AF2seq paper: https://lnkd.in/gMFqhvcC
+			AF2seq code: https://lnkd.in/gkDNm_e8
+			Notebooks: https://lnkd.in/gjRPf3wz, https://lnkd.in/g896nAEP
+		protein origami with worms softwae:
+			https://github.com/willsheffler/worms
+		mpm4(Molecular Programming Model v4), a new generative natural language text-to-protein
+			White paper: https://lnkd.in/gp2gcHm8
+			MPM4 repo: https://310.ai/mpm/repo
+		EnzyGen - Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates
+			https://lnkd.in/er2f53ty
+			Code: https://lnkd.in/ecGritr9
+		Deep learning guided design of dynamic proteins
+			https://lnkd.in/dsEixapb
+			Code: https://lnkd.in/d9PYHiSU
+		synMinE:design and screening of an emergent protein function in synthetic cells
+
+		
+	#MINIPROTEIN DESIGN:
+		De novo design of highly selective miniprotein inhibitors of integrins αvβ6 and αvβ8
+		De Novo Design of Integrin α5β1 Modulating Proteins for Regenerative Medicine
+		Isoform-specific inhibition of FGFR signaling achieved by a de-novo-designed mini-protein
+		De novo design of picomolar SARS-CoV-2 miniprotein inhibitors
+		Ultrapotent miniproteins targeting the receptor-binding domain protect against SARS-CoV-2 infection and disease in mice
+		Rapid and sensitive detection of antigen from SARS-CoV-2 variants of concern by a multivalent minibinder-functionalized nanomechanical sensor
+		Preclinical proof of principle for orally delivered Th17 antagonist miniproteins
+		small protein designing=Sampling of structure and sequence space of small protein folds
+			https://github.com/strauchlab/scaffold_design
+			https://github.com/asford/protease_experimental_analysis
+		
+	#BIOSENSOR
+		Thermodynamically coupled biosensors for detecting neutralizing antibodies against SARS-CoV-2 variants
+		De novo design of modular and tunable protein biosensors
+		A general strategy to construct small molecule biosensors in eukaryotes
+		Engineered biosensors from dimeric ligand-binding domains
+		Thermodynamically coupled biosensors for detecting neutralizing antibodies against SARS-CoV-2 variants
+		De novo design of modular and tunable allosteric biosensors
+		Detection of antibodies neutralizing historical and emerging SARS-CoV-2 strains using a thermodynamically coupled de novo biosensor system
+		Modular and generalizable biosensor platform based on de novo designed protein switches
+		
+		
+	#PROTEIN STRUCTURE,FUNCTION,POCKETS, ANALYSIS, CONFORMATIONS PTM
+		trroseta=https://yanglab.qd.sdu.edu.cn/trRosetta/
+		pdbsum=https://www.ebi.ac.uk/thornton-srv/databases/pdbsum/
+		GREMLIN: for make residue contact file:
+		https://gremlin.bakerlab.org/submit.php
+		alphamod: an automated pipeline that combines AlphaFold2 and MODELLER for improved protein structure prediction with quality assessment
+			Paper -> https://lnkd.in/gpwtEhwz
+			Code -> https://lnkd.in/gqtgYTtc
+		IDR ANALYSIS
+			Paper -> https://lnkd.in/g8RKRpBT
+			Code -> https://lnkd.in/g2yHMi5y
+		pdbminer: a tool that searches the PDB and the AF2 database to aid in choosing the best available structure for a given protein to be used for studies/analyses.***
+			Paper -> https://lnkd.in/gWMHb65K
+			GitHub -> https://lnkd.in/gAETpBxz
+		apollodiff: Predicting Protein Flexibility upon Ligand Interaction using Diffusion Models
+			Link: https://lnkd.in/eQ2yr6KN
+		afcluster: An AlphaFold2-based method to predict multiple biologically-relevant conformations of protein structures. ***
+		Predicting multiple conformations via sequence clustering and AlphaFold2
+		Prediction of multiple conformational states by combining sequence clustering with AlphaFold2
+			Paper -> https://lnkd.in/gGRwJbqp
+			Code -> https://lnkd.in/gERqgdHp
+		fastfold(Reducing AlphaFold Training Time from 11 Days to 67 Hours)
+			Paper -> https://lnkd.in/dfqJ8-qY
+			Code -> https://lnkd.in/dBc5SyKt
+		openfold(A fast, memory-efficient, and trainable implementation of AlphaFold2)
+			Paper -> OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization https://lnkd.in/d2qmGmRB
+			Code -> https://lnkd.in/dCBvrjgn
+		helixfold single=𝐒𝐢𝐧𝐠𝐥𝐞
+			Paper -> MSA-free protein structure prediction using a protein language model https://lnkd.in/dPMFNjCD
+			Code -> https://lnkd.in/dCFHc_jE
+			Webserver -> https://lnkd.in/dw8Cgpe
+		esmfold(by Facebook/Meta)
+			Paper ->Evolutionary-scale prediction of atomic-level protein structure with a language model https://lnkd.in/djCBUmnD
+			Code -> https://lnkd.in/duVN3jfE
+		pymolfold(ESMFold implemented in PyMOL as a plug-in)***
+			Code: https://lnkd.in/dcTe7VqC
+			omegafold=𝐎𝐦𝐞𝐠𝐚𝐅𝐨𝐥𝐝
+			Paper -> High-resolution de novo structure prediction from primary sequence https://lnkd.in/duket7Rp
+			Code -> https://lnkd.in/dYBBtiBz
+		af2-rave: A protocol for generating Boltzmann-ranked structure ensemble from sequence using AF2 and enhanced sampling MD simulations
+			Paper -> https://lnkd.in/g4_b3M_A
+			GitHub -> https://lnkd.in/gcGPsET2
+			Colab Notebook -> https://lnkd.in/gcGpSe2p
+		pdbbind=The PDBbind database is a comprehensive collection of experimentally determined binding affinity data for all biomolecular complexes in the Protein Data Bank.
+			PDBbind Home -> https://lnkd.in/gJuNE5FG
+			Paper -> https://lnkd.in/grwKijQY
+			https://lnkd.in/dcSFCbuG
+		MULTICOM3, developed by the Bioinformatics and Machine Learning Lab at the University of Missouri, is an add-on package built on top of AF to improve its predictions.***
+			Paper (MULTICOM improving AF2): https://lnkd.in/grBqTqRv
+			Paper (MULTICOM improving AF-Multimer): https://lnkd.in/gP8eUNjJ
+			GitHub: https://lnkd.in/g6UJ2Xse	
+		grasp= a method for binding site prediction in protein structures
+			Paper -> https://lnkd.in/gieXjTgS
+			Demo -> https://lnkd.in/gMSqJDp6
+			GitHub -> https://lnkd.in/gSPG868H
+		foldy: A web tool for interactive protein structure analysis (structure prediction, Pfam annotation & visualization, docking)
+			Webserver -> https://foldy.lbl.gov/
+			Paper -> https://lnkd.in/gN2HjvHm
+			Code -> https://lnkd.in/gefPwTfQ
+		albatross=for idr in proteins=
+			Papers -> https://lnkd.in/ghVH5CFM https://lnkd.in/gDDPtsP4
+			Webserver -> https://metapredict.net/
+			Colab Notebook -> https://lnkd.in/g_hU3KAq
+		cerebra: A new framework and webserver for protein structure prediction with improved computational efficiency
+			Webserver -> https://lnkd.in/gub2EKqK
+			Paper -> https://lnkd.in/gcKG76ed
+		alphafind: A web-based search engine for finding structures similar to a given query in the entire proteome ***
+			Webserver -> https://lnkd.in/g2hrkBaU
+			Wiki -> https://lnkd.in/g9ekfTd2
+			Code -> https://lnkd.in/g_JVm6j9
+			Paper -> https://lnkd.in/g5whjEiV
+		Predicting Relative Populations of Protein Conformations without a Physics Engine Using AlphaFold2
+			https://lnkd.in/dVuECzn2
+		SurfPB: A GPU-Accelerated Electrostatic Calculation and Visualization Tool for protein
+			https://lnkd.in/dxBCt8MY
+		Predicting the alternative conformation of a known protein structure based on the distance map of AlphaFold2
+		Unsupervised Domain Classification of AlphaFold2-Predicted Protein Structures
+		ProtAlign-ARG: Antibiotic Resistance Gene Characterization Integrating Protein Language Models and Alignment-Based Scoring
+		Multi-modal deep learning enables efficient and accurate annotation of enzymatic active sites
+		Predicting protein conformational motions using energetic frustration analysis and AlphaFold2
+		StrIDR: a database of intrinsically disordered regions of proteins with experimentally resolved structures
+		Structure prediction of alternative protein conformations
+		EquiPocket - an E(3)-Equivariant Geometric Graph Neural Network for Ligand Binding Site Prediction
+			https://lnkd.in/dp6Hd79r
+			code: https://lnkd.in/dUcgd4Bm
+		AF2BIND: Predicting ligand-binding sites using the pair representation of AlphaFold2
+			https://github.com/sokrypton/af2bind
+		AlphaFlow= is a modified version of AlphaFold, fine-tuned with a flow matching objective, capable of generative modeling of protein conformational ensembles
+			code= bjing2016/alphaflow: AlphaFold Meets Flow Matching for Gen...
+			paper=https://arxiv.org/abs/2402.04845
+		metapocket=Identification of cavities on protein surface using multiple computational approaches for drug binding site prediction
+			http://sysbio.zju.edu.cn/metapocket
+		oligomirization detection=
+			Structural insights into SAM domain-mediated tankyrase oligomerization
+		PocketFlow is a data-and-knowledge-driven structure-based molecular generative model=
+			github repo: https://lnkd.in/dcq2HiQz
+		genomespot: Models for predicting oxygen, temperature, salinity, and pH preferences of microbes from genome amino acid sequence
+			Paper -> https://lnkd.in/gP-JCyF3
+			Code -> https://lnkd.in/gbcA_pXX	
+		deeptm, a model for predicting the melting temperature of thermophilic proteins from sequence
+			Paper -> https://lnkd.in/g-N9fwKk
+			Code -> https://lnkd.in/gZNpff8U
+			Webserver -> https://lnkd.in/gEvZbDCf (currently inactive)	
+		modfold9, a webserver for estimating local and global quality of 3D protein models
+			Paper -> https://lnkd.in/gt7DB4Vm
+			Webserver -> https://lnkd.in/gPJam
+		stability assay=Using a generative model to predict absolute stability of a target fold given a protein sequence 
+			Paper -> https://lnkd.in/gq3txtKU
+			Github -> https://lnkd.in/gi8CasZn
+			Colab Notebook -> https://lnkd.in/gZXKGnpt	
+		transfew, a DL model for predicting protein function from sequence
+		alphafill= a tool that fills the gap left by AlphaFold2 predictions=
+			https://alphafill.eu/
+		af2flow and𝐨esmflow𝐰: Fine-tuned versions of AlphaFold/ESMFold and retrained on MD simulation ensembles
+		AlphaFlow generates protein conformational ensembles, including:
+			Paper -> https://lnkd.in/ebXcieJ9
+			Code -> https://lnkd.in/eadw4vJR
+		flypredictome=a webserver that integrates AF2-Multimer predictions with other data such as expression patterns and subcellular localization predictions.
+			Paper -> https://lnkd.in/ghCexUF4
+			Code -> https://lnkd.in/gWBu5C-S			
+		calvados=protein idrs db
+			code -> https://lnkd.in/gfxq2vs6
+			Notebook to run CALVADOS MD simulation -> https://lnkd.in/gYx_Yk5G
+		A framework that integrates peptide sequence, protein structure, and MD simulation data to predict the effect of mutations on function
+			Paper -> https://lnkd.in/gHez_XhG
+			Scripts -> https://lnkd.in/gwYqvHa2
+		raptorx=single, a single-sequence protein structure prediction method that integrates protein language model and Evoformer-based structure generation module
+			Paper -> https://lnkd.in/g6mWFhvq
+			Code -> https://lnkd.in/gxC4m5eG
+		protein conformation using af2:
+			Code -> https://lnkd.in/g6cZ7wfW
+			Paper -> https://lnkd.in/g-KyfB-t
+		Genomic language model predicts protein co-regulation and function
+			https://github.com/y-hwang/gLM (https://doi.org/10.5281/zenodo.10512240
+		pypka: A tool and webserver for physics-based and ML-assisted protein pKa estimation and biomolecular structure preparation
+			Paper: https://lnkd.in/g9axhwWD
+			Code: https://lnkd.in/ga7wKdyf
+			Webserver: https://pypka.org/
+		alphafun, a method for proteome-wide functional annotation based on structural alignment of predicted structures
+			https://lnkd.in/gckhHQZb
+		varipred: An approach that uses pre-trained protein language models to predict the pathogenicity of genetic variants using protein sequence as input
+			Paper: https://lnkd.in/gFJ4C9UA
+			Code: https://lnkd.in/gpgQPFVA
+		ps-go: a parametric protein search engine that integrates protein structure, sequence information, and computable parameters
+			Paper: https://lnkd.in/gzHh-ix5
+			Webserver (PS-GO): https://psgo.ucc.ie/
+			Webserver (PROFASA): https://profasa.ucc.ie/	
+		funcphos-str, a DL model and webserver for the prediction and visualization of functional phosphosites
+			Paper: https://lnkd.in/gjHsqnbj
+			Webserver: https://lnkd.in/gGtCx8HE
+			Code: https://lnkd.in/gm4T_g_V
+		Protein Ensemble Generation Through Variational Autoencoder Latent Space Sampling
+		PyMissense creates a pathogenicity plot and modified pdb where the b-factor column is replaced by AlphaMissense pathogenicity prediction. 
+			Code: https://lnkd.in/gDn3vQxB
+		deepka, a tool and webserver for protein pKa prediction
+			Paper -> https://lnkd.in/gnUF5dGf
+			Webserver -> https://lnkd.in/gesQAF2K
+			Code -> https://lnkd.in/gdigjX8X	
+		ProGen2 Finetuning - You can now fine tune ProGen2 on the protein families of your choice.
+			https://lnkd.in/dMg3t84E
+		Computational scoring and experimental evaluation of enzymes generated by neural networks
+			https://lnkd.in/dt8uvptG
+			GitHub repo: https://lnkd.in/d3_ecA2P
+			Metrics: https://lnkd.in/dTiqvfmU
+		AFQuickPlot:Ready-to-go Jupyter notebook for plotting AlphaFold-generated MSAs, per-residue pLDDT, and PAE
+			https://lnkd.in/d5yV9GC3
+		https://github.com/sbhakat/AF-cryptic-pocket #Cryptic pocket prediction using AlphaFold 2
+		https://github.com/sami-chaaban/PointPAE #Map Alphafold PAE values on a model
+		https://github.com/sb-ncbr/FFFold  #FFFold: A tool for the quick optimisation of protein structures from AlphaFold DB
+		https://github.com/matthiasblum/pfam-alphafold #domain analysis
+		https://github.com/meh47336/interface-plddt #Calculate the pLDDT scores of residues involved in AlphaFold predictions' dimeric interfaces
+		https://github.com/tristanic/pae_to_domains #extract protein domains from a predicted aligned error matrix
+		https://github.com/tristanic/pae_to_domains #extract protein domains from a predicted aligned error matrix
+		locohd, a metric for comparing local environments of proteins based on chemical composition of local residue environments
+			Paper: https://lnkd.in/gMnuHumr
+			Code: https://lnkd.in/g-cKuswm
+		starfunc, a method for accurate protein function prediction that combines DL models with template information
+			Paper: https://lnkd.in/gifXYxAZ
+			Webserver: https://lnkd.in/g95bjpfZ
+		chainsaw, a deep learning method for predicting protein domains in a given structure
+			Paper: https://lnkd.in/gsFcZPNN
+			Code: https://lnkd.in/gfeDEXTx
+		aggresscan3𝐃upgraded to aggresscan4𝐃, a structure-based predictor of pH-dependent protein aggregation to facilitate protein solubility engineering
+			Paper: https://lnkd.in/g4NYQR5g
+			Webserver: https://lnkd.in/gMz22bqZ
+			Tutorial and Docs: https://lnkd.in/gWVh5Wrv
+		DR-BERT - A protein language model to annotate disordered regions
+			https://lnkd.in/d4cUFh9v
+			code: https://lnkd.in/d-vUmwzt
+			huggingface: https://lnkd.in/d2wHq546
+		simsapiper, a large scale structure-informed MSA of proteins
+			Paper: https://lnkd.in/gcg2Hyjr
+			Code: https://lnkd.in/grhw9bCx
+		S-PLM - Structure-aware Protein Language Model via Contrastive Learning between Sequence and Structure
+			https://lnkd.in/e6juvdYM
+			code: https://lnkd.in/eseYxUcn
+		Protrek, a tri-modal protein language model that simultaneously models protein sequence, structure, and function
+			Paper: https://lnkd.in/gt_ATjCJ
+			Code (GitHub): https://lnkd.in/gxptjRZE
+			Model weights (HF): https://lnkd.in/gCPjX83T
+			Web-based demo (HF): https://lnkd.in/g5gvfrpZ
+		CCFRAG, a fragment-based method for the prediction of coiled-coil structures using AF2
+			Paper: https://lnkd.in/gqbJicb8
+			Code: https://lnkd.in/giwcUd6Y
+		aggreprot, a web server for the prediction of aggregation prone regions in protein sequences
+			Paper: https://lnkd.in/gKMxSbUF
+			Server: https://lnkd.in/g568feim
+		CASTp 3.0: computed atlas of surface topography of proteins for channer and binding sites
+		ProtesSTar, a method for compressing protein structure files.
+			https://lnkd.in/gC8QnH5E
+		sparothub, a user-friendly platform for training, implementation, and sharing of protein modeling models.
+			Paper: https://lnkd.in/giRZuAwZ
+			GitHub: https://lnkd.in/geJ5z3qz
+			ColabSaprot: https://lnkd.in/gqYyG5j8
+			SaProtHub Community (HuggingFace): https://lnkd.in/gRuhcgWZ
+			SaProt Paper: https://lnkd.in/gjuDm4mr
+			SaProt Code: https://lnkd.in/gtXHGSAH
+		diffpalm, a method for pairing interacting protein sequences based on protein language models trained on MSAs
+			Paper: https://lnkd.in/gZvD8hgw
+			Preprint: https://lnkd.in/gqm_bZMD
+			Code: GitHub https://lnkd.in/gpvndWwN, zenodo https://lnkd.in/gXtv2nC3
+		backbone-dependent and backbone-independent rotamer libraries for ptm:
+			Paper: https://lnkd.in/gC8QnH5E
+			Preprint: https://lnkd.in/gZaHQM8d
+			Code: https://lnkd.in/gv7bk7F9
+		strpsearch, a computational tool for fast identification, classification, and mapping of Structured Tandem Repeats in Proteins
+			Paper: https://lnkd.in/g7AjyAjw
+			Code: https://lnkd.in/gDcp_WZY
+		cell-e2, a bidirectional text-to-image model that generates images depicting subcellular localization of proteins from amino acid sequences and vice versa (predicting protein sequences from patterns in localization images)
+			Paper: https://lnkd.in/gfYZpajk (OpenReview), https://lnkd.in/geGKG4i8 (BioRxiv)
+			Code: https://lnkd.in/g82Zwc_3
+			Demos: https://lnkd.in/grDiTxWR
+		HelixProtX - Unifying Sequences, Structures, and Descriptions for Any-to-Any Protein Generation with the Large Multimodal Model HelixProtX
+			https://lnkd.in/eSAGDHnE
+		AlphaFold Model Quality Self‐Assessment Improvement Via Deep Graph Learning
+			https://lnkd.in/dt_2rWhs
+		AlphaPulldown 2.0.0 beta3 just released
+			https://lnkd.in/dDiMr2zg
+		idpGAN:Direct generation of protein conformational ensembles via machine learning
+		PROTAC-DB 3.0: an updated database of PROTACs with extended pharmacokinetic parameters
+
+			
+	#PROTEIN MUTATION AND DDG
+		codonoptimization:https://eu.idtdna.com/pages/tools/codon-optimization-tool?returnurl=%2FCodonOpt
+		modafold: A strategy for the prediction of missense mutant protein structure combining AlphaFold2 with molecular dynamics simulations
+			Paper -> https://lnkd.in/gC_NZQQ9
+			GitHub -> https://lnkd.in/gKkc5N3F
+		pycofitness𝐬: A tool for in silico𝘰 mutagenesis to evaluate the impact of mutations on biophysical properties of proteins and RNAs
+			Paper -> https://lnkd.in/eamxMs2F
+			Code -> https://lnkd.in/e9XhmYXD
+			FlyPredictome webserver -> https://lnkd.in/g4MA9P2F
+		prescott= a model and webserver for predicting the effect of missense mutations, that rivals AlphaMissense
+			Paper -> https://lnkd.in/gNYzWeuh
+			GitLab -> https://lnkd.in/gdzbTync
+			Webserver -> https://lnkd.in/gbqR8rSG
+			Docker image -> https://lnkd.in/gg_Hb5-v
+		mutation explorer: A webserver for introducing mutations into proteins and visualizing the energetic impacts
+			Paper -> https://lnkd.in/gr5Wtawz
+			Webserver -> https://lnkd.in/gYSvUCZb
+		Accurate Mutation Effect Prediction using RoseTTAFold
+			https://github.com/RosettaCommons/RFDesign/tree/main/inpainting
+		AlphaFold2 can predict single-mutation effects
+			github.com/mirabdi/PDAnalysis
+		Using AlphaFold to predict the impact of single mutations on protein stability and function
+		AlphaMissense: Accurate proteome-wide missense variant effect prediction with AlphaMissense
+			Link: https://lnkd.in/gPuiHpGj
+			Code: https://lnkd.in/gNyzh5wn (New predictions? ❌)
+			Predictions db: https://lnkd.in/gSjqHmWa
+		Rasp:Great tool with a nice Colab for predicting protein variants thermodynamic stability changes (ΔΔG)
+			Paper: https://lnkd.in/gk6W9AjY
+			GitHub: https://lnkd.in/gcUR9f6t
+			Colab: https://lnkd.in/g75A9jmc
+		ProSTAGE: How Can Graph Convolutional Networks Reveal the Effect of Mutations on Protein Stability
+			Paper: https://lnkd.in/gQc38sMS
+			Data:https://lnkd.in/gMqV4qNv
+		DDMut-PPI: Can Deep Learning Predict the Effects of Mutations on Protein-Protein Interactions?
+			https://lnkd.in/gGMB6g5s
+			https://lnkd.in/gbkMQR_5
+			https://lnkd.in/gYsfEiW4
+			https://lnkd.in/gdGTQ5Nq
+		probass, a protein language model for predicting mutational effect on protein-protein binding affinity using sequence and structural information
+			Paper: https://lnkd.in/gRWDwh-f
+			Code: https://lnkd.in/gBvzZg6Q
+		ddafinitty, a neural network for predicting changes in binding affinity upon multiple mutations
+			Paper: https://lnkd.in/gc8bCfpG
+			Code: https://lnkd.in/gy4x4HrA
+		enzyact, a deep learning method for predicting the effects of mutation(s) on enzyme activity
+			Paper: https://lnkd.in/g7s3pz5x
+			Data: https://lnkd.in/ghCSmPMx
+		stability oracle, a deep learning model for prediction stabilizing mutations.
+			Paper: https://lnkd.in/gRs9p-ZC
+			Code: https://lnkd.in/gApdbD4D
+			Preprint: https://lnkd.in/gtV_P8CU
+		MT-TopLap:mutation evaluation
+
+			
+	#PROTEIN COMPLEX AND AFFINITY
+		haddock=https://wenmr.science.uu.nl/haddock2.4/
+		cluspro=https://cluspro.org/login.php?redir=/jobdetail.php?job=540019
+		lightdock: A versatile open-source molecular docking tool and framework for protein and DNA
+			Paper: https://lnkd.in/g6CYg2Y7
+			Webserver: https://lnkd.in/gxAJ-CaH
+			GitHub repos (Python and Rust implementations): https://lnkd.in/gJNiRfv9
+		lazyaf: A Google Colab/ColabFold-based pipeline for screening large protein datasets for novel protein-protein interactions.
+			Paper -> https://lnkd.in/gyzZVZeb
+			GitHub -> https://lnkd.in/g4e4DfyC
+		alphaCRV: An AlphaFold2-based pipeline for accurate identification of binder topologies by clustering, ranking and visualization of models
+			Paper -> https://lnkd.in/g22iSqfv
+			Code -> https://lnkd.in/g4Cmxyfq
+		DIFFMASIF: Surface-based Protein-Protein Docking with Diffusion Models
+			Link: https://lnkd.in/e_ZdFfX2
+		LATENTDOCK: Protein-Protein Docking with Latent Diffusion 
+			Link: https://lnkd.in/eUfPdSQC
+		deeprangnnesm= a new method for scoring 3D strucure of protein-protein complexes using a protein language model.
+			Paper -> https://lnkd.in/gzcFnezd
+			Code -> https://lnkd.in/gnDpvka2
+			Docs -> https://lnkd.in/gqEy3NMd
+		unifold(An alternative to AlphaFold-multimer)
+			Paper -> Uni-Fold: An Open-Source Platform for Developing Protein Folding Models beyond AlphaFold https://lnkd.in/d-M4nzzS
+			Code -> https://lnkd.in/dk_GfZqb			
+		ColabDock: inverting AlphaFold structure prediction model for protein-protein docking with experimental restraints
+		RPXDOCK: Fast and versatile sequence-independent protein docking for nanomaterials design using RPXDock
+		tapioca: A pipeline for prediction of dynamic protein–protein interactions
+			Webserver -> https://lnkd.in/gtNjKu8D
+			Code -> https://lnkd.in/g8jJANV8
+			Paper -> https://lnkd.in/gtWkzRZk
+		Prediction of protein assembly structure by combining𝐀af2𝐝and evodock𝐊's symmetrical docking
+			Paper -> https://lnkd.in/gtfynKxT
+			GitHub -> https://lnkd.in/gdJq6Qqy
+		combfold: a combinatorial and hierarchical assembly algorithm combined with AlphaFold2 for predicting structures of large protein assemblies
+			GitHub -> https://lnkd.in/gRVdfaZV
+			Code Ocean capsule -> https://lnkd.in/gx_76ah4
+		DMFold/DMFold-Multimer -> https://lnkd.in/gvGqvKHi
+		eggnet= a generalizable DL-based pose-scoring framework for protein-protein and protein-ligand complexes ***
+			Paper -> https://lnkd.in/ghnPMpGR
+			Code -> https://lnkd.in/gXwYBtAg
+		arctic-3d, an automated tool and webserver to mine and rationalize protein-protein interface information for a given protein
+			Paper -> https://lnkd.in/gqXnGrta
+			Webserver -> https://lnkd.in/gXcS2iH4
+			Code -> https://lnkd.in/gHk8_Ayu
+		piqle: A deep learning method for protein-protein interface quality evaluation
+			Paper: https://lnkd.in/gRE2Rc22
+			Code: https://lnkd.in/gQmQktkt
+		AlphaPPImd - Exploring the conformational ensembles of protein-protein complex with transformer-based generative model
+			https://lnkd.in/detu_65t
+		GPSite is a geometry-aware multi-task network for simultaneously predicting binding residues of; DNA, RNA, peptide, protein, ATP, HEM, and metal ions on proteins
+			https://lnkd.in/dtZXSMDE
+			https://lnkd.in/ddfQC8r8
+			github repo: https://lnkd.in/dB_aTcti
+		Cold Spot Scanner, a method for predicting "cold spots" at protein-protein interfaces.
+			Paper: https://lnkd.in/gH6QW8cT
+			Notebook: https://lnkd.in/gn7ekKmj
+		ProLLM: An LLM-based method for protein-protein interaction prediction using "protein-chain-of-thought.
+			Paper: https://lnkd.in/gEf2iVQ6
+			Code: https://lnkd.in/gpvAh595
+		litalphafold, a multimer and multi-state structure prediction pipeline based on AlphaFold and AlphaPulldown
+			Paper: https://lnkd.in/gJTbNR_q
+			Code: https://lnkd.in/gj4--zPw
+		predictomes:A database of protein-protein interactions based on SPOC, a classifier trained on curated AlphaFold-Multimer predictions
+			Paper: https://lnkd.in/gVfhd6Zy
+			Database: https://predictomes.org/
+			Tutorial: https://lnkd.in/gbbHzsTn
+			Data: https://lnkd.in/gp-eNbxu
+		molpc2, a method for predicting the structures and stoichiometry of large protein complexes using Monte Carlo Tree Search and AF2
+			Paper: https://lnkd.in/gFSaz53T
+			Code: https://lnkd.in/gttfTJfB
+		AFsample2: Sampling the Diverse Conformational Landscape of Proteins By Generative Models
+			Paper by Kalakoti and Wallner: https://lnkd.in/gYNhCv5W
+			GitHub: https://lnkd.in/gYbSfNSt
+		alphafastppi, a Python package that streamlines large-scale protein-protein interaction analysis
+			Paper: https://lnkd.in/gP_9J--K
+			Code: https://lnkd.in/ghhMz9Tm
+		tembertrue, a deep learning method for protein thermostability prediction from amino acid sequences.
+			Paper: https://lnkd.in/gfPNUnsH
+			Preprint: https://lnkd.in/gpEXwsFk
+			Code: https://lnkd.in/g5VcfB7D
+			
+	#ALIGNMENT & HOMOLOGY & MSA
+		foldseek and foldtree=sequence based structure find=
+			https://search.foldseek.com/search
+			https://github.com/steineggerlab/foldseek
+		GTalign: spatial index-driven protein structure alignment, superposition, and search
+		pimine, a database-driven structure-based tool for protein interface similarity search and alignment
+			Paper -> https://lnkd.in/g3pnBRFJ
+        plmsearch, a protein language model-based method for homologous protein search from sequence input
+		https://github.com/ShahidIqb/PROST-witout-AlphaFold2 #mutation assay
+		gtalign, a fast method for extensive protein structure alignment and search with state-of-the-art accuracy 
+			Paper: https://lnkd.in/eJUm_GbK
+			Code: https://lnkd.in/e8geRVS9
+		Dali: server—Retrieve structural homologs for a generic 3D structure
+			http://ekhidna.biocenter.helsinki.fi/dali_server
+		homolog structures finding tools:
+			RCSB, where the “3D similarity
+			Dali database
+			Dali Server
+			PDB eFold
+		MSA=https://zhanggroup.org/DeepMSA/
+		MSA=https://toolkit.tuebingen.mpg.de/tools/hhblits
+		DeepMSA2/DeepMSA2-Multimer -> https://lnkd.in/gSHBrSAd
+		ESM-MSA sampler: https://lnkd.in/dFcKDBb5
+		https://www.ebi.ac.uk/jdispatcher/msa
+		https://toolkit.tuebingen.mpg.de/tools/hhblits
+		A BLAST from the past: revisiting blastp’s E-value
+			https://lnkd.in/dNbj2Dfp
+			Code for SGPvalue: https://lnkd.in/dsv-g8XZ
+		Py3mol 
+		USalign
+		
+	#SWICHABLE PROTEINS
+		Design of stimulus-responsive two-state hinge proteins
+		De novo design of allosterically switchable protein assemblies
+		De Novo Design of Conformationally Dynamic Proteins
+		Design of stimulus-responsive two-state hinge proteins
+		De novo design of pH-responsive self-assembling helical protein filaments
+		De novo design of allosterically switchable protein assemblies
+		
+	#PROTEIN DATABASE
+		membrane protein=https://opm.phar.umich.edu/ppm_server
+		uniprot=https://www.uniprot.org/
+		restrcition enzymeDB=https://nc3.neb.com/NEBcutter/
+		prtoein atlas=https://www.proteinatlas.org/
+		enzymedb=https://www.brenda-enzymes.org/
+		CAMEO=https://www.cameo3d.org/
+		CAPRI=https://www.ebi.ac.uk/msd-srv/capri/
+		CASP=https://predictioncenter.org/casp15/
+		protein tools:https://www.expasy.org/
+		prtoein protonation=http://newbiophysics.cs.vt.edu/H++/ & http://compbio.clemson.edu/pka_webserver/
+		protein secondary strucutre=http://bioinf.cs.ucl.ac.uk/psipred/
+		protein ramachandran=https://www.ccp4.ac.uk/html/rampage.html
+		
+		
+		
+---------------------------
+
+#GROMACS
+
+	#TUTORIAL AND PAPERS AND DATABASE
+		gromacs tutorial=http://www.mdtutorials.com/gmx/ & https://gromacsinfo.ir/
+		vmd tutorial=http://www.ks.uiuc.edu/Training/Tutorials/
+		VIAMD: a Software for Visual Interactive Analysis of Molecular Dynamics ***
+			Paper: https://lnkd.in/dQF48Bvq
+		md+ protein prediciton:Protein structure prediction using Rosetta in CASP12
+		g_elpot: A Tool for Quantifying Biomolecular Electrostatics from Molecular Dynamics Trajectories
+		coarse graine MD:Hydrophobic mismatch drives self-organization of designer proteins into synthetic membranes
+	mdverse: Creating a dedicated repository of MD simulation data
+		Paper: https://lnkd.in/e6gReiZj
+		GitHub: https://github.com/MDverse
+		MDverse data explorer: https://lnkd.in/ezmEQ8AD
+		
+	#PROTEIN
+		online md=http://mmb.irbbarcelona.org/MDWeb/help.php?id=software
+		amberforcefield=http://ffamber.cnsm.csulb.edu/ffamber.php
+
+
+	#SMALL MOLECULE
+		charmm for small molecule=http://www.swissparam.ch/
+		amberparameter=http://amber.manchester.ac.uk/
+		
+	#MODULES
+		https://github.com/cgmartini/martinize.py #Create coarse grain Martini input files for Gromacs
+		https://github.com/DweipayanG/GROMACS-Protein-Ligand/blob/main/EM.mdp #mdp for protein ligand
+		https://github.com/tubiana/protocolGromacs #Automatic gromacs protocol from preparation to production with ligand
+		https://github.com/marrink-lab/gromit #gromacs for martini
+		https://github.com/marrink-lab/gromit #Yasara plugins for Gromacs users
+		https://github.com/bioinfkaustin/gromacs-on-colab  #gromacs on colab
+		https://github.com/pritampanda15/Molecular-Dynamics #tutorial for molecular dynamics simulation using gromacs
+		https://github.com/intbio/gmx_protocols #gromacs mdp files
+		https://github.com/alanwilter/acpype #antechamber for small molecules
+		https://github.com/HMakkiMD/PolySMart #martini with gromacs
+		https://github.com/abeebyekeen/CHAPERONg #CHAPERONg: An automated pipeline for GROMACS MD simulations and trajectory analyses
+		https://github.com/pamellaccar/gromacs_with_packmol #gromacs packmol
+		https://github.com/stupplab/pythonic_martini #gromacs martini
+		https://github.com/Lemkul-Lab/cgenff_charmm2gmx #charmm small molecule topology
+		https://github.com/MDSYN2019/StripedNP_top_2019 #nanoparticle with gromacs
+		https://github.com/jbarnoud/molndx #Pymol plugin to handle gromacs ndx files
+		https://github.com/cespos/Tutorials_MDFPs #small molecules topolgies for gromacs
+		https://github.com/mattwthompson/umbrella #umbrella sampling simulations in GROMACS
+		https://github.com/paulshamrat/ColabMDA #gromacs in colab
+		https://github.com/jamesmccarty/GROMACS_parameter_files #gormacs mdp
+		https://github.com/chamikaradk/Polymer-ITP-generator #gromacs polymer
+		https://github.com/YYYYYunsen/Lipid17_for_GROMACS #amber lipid force field for lipid
+		https://github.com/hnishi/umbrella_nishi #umbrella
+		https://github.com/mattwthompson/mdp-files #mdp
+		https://github.com/mkatouda/stage3 #topologies for small molecue
+		https://github.com/hnishi/gromacs_workflow  #umberlla
+		https://colab.research.google.com/github/lorenzopallante/BiomeccanicaMultiscala/blob/main/LAB/06-Gromacs/06-Gromacs.ipynb  #gromacs colab
+		https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab10_SMOGdual.ipynb #martini colab
+		https://github.com/fahoffmann/Entropy #entropy in gromacs
+		https://github.com/arghya90/CodeEntropy #entropy in gromacs
+		https://github.com/issahi62/gromacs #simulation of ion proteins via gromcs
+		https://github.com/ivanamihalek/gromacs #lchemy pipeline for dG estimate for gromacs
+		https://github.com/chen3262/Chem7590-waterPulling #Computer Exercise of free energy calculation using GROMACS
+		https://github.com/Vattulainen-Group/CellSimGmx #A GROMACS based coarse grained Cell simulation package.
+		https://github.com/caysonjh/free_energy_template #free energy computations using GROMACS
+		https://github.com/davkhech/ssdnacnt #Gromacs simulations on single stranded DNA and carbon nanotubes
+		https://github.com/jabl/cgpoly #Package for doing Coarse-Grained Polymer simulations using Gromacs
+		https://github.com/AnikSR/MDnotes #important note for gromacs
+		https://github.com/HubLot/Lipids_C36 #GROMACS topology files for various lipids for the Charmm36 forcefield
+		https://github.com/robinkun/topconv #Convert amber topology parameter & coordinate file to gromacs topology file
+		https://github.com/amayank-umich/pythonic_martini #simulating macromolecules using MARTINI / GROMACS
+		https://github.com/rjdkmr/gmx_hole #To calculate channel radius using hole2 program for GROMACS MD trajectory
+		https://github.com/recoli/amber_to_gmx_by_XL #amber to gromacs 
+		https://pubs.acs.org/doi/10.1021/acs.jctc.0c01246 #Electrostatics from Molecular Dynamics Trajectories
+		chaperong=gromacs md automate=
+			code= https://lnkd.in/gtSvw3ax
+			tutorial= https://lnkd.in/gvpgF8aw
+		gmx mmpbsa= for free energy and other terms energies in gromacs=
+			https://valdes-tresanco-ms.github.io/gmx_MMPBSA/dev/
+			https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA
+		NRIMD, an online server for analyzing long-range, allosteric interactions in proteins from MD simulation data
+			Paper: https://lnkd.in/gG3KMESX
+			Server: https://lnkd.in/gYNuWdm6
+			User Guide: https://lnkd.in/gWH8rXP5
+			Examples: https://lnkd.in/gtrU5Ukr
+		wedap, a python package for streamlined plotting of MD simulation data
+			Paper: https://lnkd.in/gG-vYrFW
+			Code: https://lnkd.in/gqQ4mhpX
+			Docs: https://lnkd.in/gi-UF8xP
+
+---------------------------
+
+#PEPTIDE
+	#PEPTIDE DESIGN
+		EvoPro: A new DL-based method for peptide binder design. ***
+			Paper: https://lnkd.in/gBV7GH9B
+			Code: https://lnkd.in/ggfn4D2J
+			Notebook: https://lnkd.in/gzt-cgqf
+		De novo design of high-affinity binders of bioactive helical peptides
+		Design and structural validation of peptide–drug conjugate ligands of the kappa-opioid receptor
+		De novo design of modular peptide-binding proteins by superhelical matching
+		Design of amyloidogenic peptide traps
+		De novo design of protein binders for peptide recognition
+		Cyclic peptide structure prediction and design using AlphaFold
+		Exploration of Structured Symmetric Cyclic Peptides as Ligands for Metal-Organic Frameworks
+		Expansive discovery of chemically diverse structured macrocyclic oligoamides***
+		Computational Design of Cyclic Peptide Inhibitors of a Bacterial Membrane Lipoprotein Peptidase
+		Accurate de novo design of membrane-traversing macrocycles
+		A Survey of Generative AI for de novo Drug Design: New Frontiers in Molecule and Protein Generation
+		Solubility-Aware Protein Binding Peptide Design Using AlphaFold
+		AfCycDesign outperforms Rosetta on cyclic peptide design.
+			Paper -> https://lnkd.in/g7MC35Fb
+			Colab Notebook -> https://lnkd.in/gDYaaxDh
+		dexdesign: A new OSPREY-based algorithm for designing de novo D-peptide inhibitors
+			Paper -> https://lnkd.in/gWTSTZht
+			GitHub -> https://lnkd.in/gZVU9tB3
+		prottdiffPaper -> https://lnkd.in/gsrTVn4J, a method todesign antimicrobial peptides based on a combined pre-trained language and diffusion models
+			Paper -> https://lnkd.in/gsrTVn4J
+		Design of amyloidogenic peptide traps=
+			https://doi.org/10.5281/zenodo.10391229
+		Atligator Web - A Graphical User Interface for Analysis and Design of Protein–Peptide Interactions
+			https://lnkd.in/e2xXppGF
+			Webserver: https://lnkd.in/eYtfBxXV
+			usage: https://lnkd.in/ezd3af8f
+			https://lnkd.in/exmdyCck
+		DiffPepBuilder - Target-Specific De Novo Peptide Binder Design with DiffPepBuilder
+			https://lnkd.in/dxefNkg6
+		Macformer: How Deep Learning Can Potentially Help the Design of Macrocyclic Drug Candidates
+			https://lnkd.in/gcdByg7J
+			https://lnkd.in/g69E7RmT
+		evobind2, a method for designing novel linear and cyclic protein-binding peptides using just the amino acid sequence of the target protein as input.
+			Paper: https://lnkd.in/gxbbM5SN
+			Code: https://lnkd.in/ggfn4D2J
+			EvoBind (v1): Paper https://lnkd.in/gGx9jFSj, Code https://lnkd.in/gGVSv_dR, Colab Notebook https://lnkd.in/gzt-cgqf
+		HELM-GPT, a model for de novo design of macrocyclic peptides
+			Paper: https://lnkd.in/gRy2npVg
+			Code: https://lnkd.in/gxjyBrm9
+		AMP-Designer - A foundation model approach to guide antimicrobial peptide design
+			Code: https://lnkd.in/e5yYz2Fy
+		PepPrCLIP - De Novo Design of Peptide Binders to Conformationally Diverse Targets with Contrastive Language Modeling
+			https://lnkd.in/d4t-NZer
+			Colab: https://lnkd.in/dQ7VX8bt
+			Hugging Face: https://lnkd.in/d53FSjeH
+
+
+	#PEPTIDE COMPLEX
+		fragfold: An AlphaFold2-based method for high-throughput prediction of peptide binding to protein targets ***
+			Code -> https://lnkd.in/gizzPPQp
+			Paper -> https://lnkd.in/gDU7EjWN
+		https://github.com/inpacdb/PepVis #Peptide Virtual Screening Pipeline
+		Large-Scale Multi-omic Biosequence Transformers for Modeling Peptide-Nucleotide Interactions
+		phospho-tune: An AlphaFold2-based model for predicting phosphopeptide-protein complexes
+			Paper -> https://lnkd.in/gWztUc44
+
+	#PEPTIDE ANALYSIS AND STRUCTURE
+		multi cyc-gt: A multimodal deep learning model for membrane permeability prediction of cyclic peptides ***
+			Paper: https://lnkd.in/ekWvZHAP
+			GitHub: https://lnkd.in/eM9gcNut
+		FORCE-GUIDED BRIDGE MATCHING FOR FULL-ATOM TIME-COARSENED DYNAMICS OF PEPTIDES
+		CABS-flex:Modeling the structures of linear and cyclic peptides
+			Paper: https://lnkd.in/gruExXHj
+			Code (CABS-flex): https://lnkd.in/g-GxWZji
+			CABS-flex documentations: https://lnkd.in/gRNDdt9Q
+			Modeller rebuild code: https://lnkd.in/g7mbxfZW
+		HighFold - accurately predicting structures of cyclic peptides and complexes with head-to-tail and disulfide bridge constraints
+			https://lnkd.in/d6GwJtJn
+			Code: https://lnkd.in/dqGh6nAM
+		CyclicPepedia - a knowledge base of natural and synthetic cyclic peptides
+			Paper: https://lnkd.in/gaEWudeM
+			CyclicPepedia webserver: https://lnkd.in/gAvBNH5b
+			Download full CyclicPepedia: https://lnkd.in/gV-vkVrE
+			Documentation: https://lnkd.in/gtN9MD_a
+			Data source: https://lnkd.in/gBBD2QfZ
+			https://lnkd.in/dqxQEJ2M
+			https://lnkd.in/dnmwsuhY
+		pepflow: A method to predict structures of peptides, including single-state and ensembles of conformations.
+			Paper: https://lnkd.in/gKWvx6Ek
+			Preprint: https://lnkd.in/gdZpSpQj
+			Code (GitLab): https://lnkd.in/ghq2h6UN
+		Peptipedia v2.0 - A peptide sequence database and user-friendly web platform.
+			Webserver: https://app.peptipedia.cl/
+			preprint: https://lnkd.in/eswFKG2j
+
+---------------------------
+
+#NANOPARTICLES
+
+	De novo design of modular protein hydrogels with programmable intra-and extracellular viscoelasticity
+	Precisely patterned nanofibres made from extendable protein multiplexes
+	In vivo selection of synthetic nucleocapsids for tissue targeting
+	Self-assembled GLP-1/glucagon peptide nanofibrils prolong inhibition of food intake
+	Hierarchical design of pseudosymmetric protein nanoparticles
+	Computational design of non-porous, pH-responsive antibody nanoparticles
+	Modular reprogramming of designed protein nanoparticles to selectively target solid tumors
+	Blueprinting expandable nanomaterials with standardized protein building blocks
+	Rapid and automated design of two-component protein nanomaterials using ProteinMPNN
+	Top-down design of protein nanomaterials with reinforcement learning
+	De novo design of pH-responsive self-assembling helical protein filaments
+	Sculpting conducting nanopore size and shape through de novo protein design
+	De novo design of self-assembling helical protein filaments
+	Fast and versatile sequence-independent protein docking for nanomaterials design using RPXDock
+	Design of four component T= 4 tetrahedral, octahedral, and icosahedral protein nanocages through programmed symmetry breaking
+	Computational design of nanoscale rotational mechanics in de novo protein assemblies
+	Importance of Substrate–Particle Repulsion for Protein-Templated Assembly of Metal Nanoparticles
+	Alignment of Au nanorods along de novo designed protein nanofibers studied with automated image analysis
+	Quadrivalent influenza nanoparticle vaccines induce broad protection
+	Disentangling Rotational Dynamics and Ordering Transitions in a System of Self-Organizing Protein Nanorods via Rotationally Invariant Latent Representations
+	Designed proteins assemble antibodies into modular nanocages
+	Structural and functional evaluation of de novo-designed, two-component nanoparticle carriers for HIV Env trimer immunogens
+	Targeting HIV Env immunogens to B cell follicles in nonhuman primates through immune complex or protein nanoparticle formulations
+	Tailored design of protein nanoparticle scaffolds for multivalent presentation of viral glycoprotein antigens
+	de novo Design of Ion Conducting Transmembrane Protein Nanopores
+	Enhancing and shaping the immunogenicity of native-like HIV-1 envelope trimers with a two-component protein nanoparticle
+	Induction of potent neutralizing antibody responses by a designed protein nanoparticle vaccine for respiratory syncytial virus
+	Visualizing the emergence of order during self-assembly of protein nanorods
+	Two-component self-assembling nanoparticle vaccines that present multiple HIV-1 envelope trimers
+	Abstract B073: Protein nanoparticles for controllable T cell activation
+	Designed protein aggregates entrapping carbon nanotubes for bioelectrochemical oxygen reduction
+	Protein nanocontainers from nonviral origin: testing the mechanics of artificial and natural protein cages by AFM
+	Structural plasticity of helical nanotubes based on coiled-coil assemblies
+	Accurate design of co-assembling multi-component protein nanomaterials
+	Symmetry-Based Design and Structure of Self-Assembling Protein Cages and Nanomaterials
+	Computational design of self-assembling protein nanomaterials with atomic level accuracy
+	Expanding protein nanocages through designed symmetry-breaking
+	Designing multi-tasking protein nanoparticles from scratch
+	Enhancing extracellular vesicle cargo loading and functional delivery by engineering protein-lipid interactions
+	A Suite of Designed Protein Cages Using Machine Learning Algorithms and Protein Fragment-Based Protocols
+
+---------------------------
+
+#ANTIBODY
+
+	#DESIGN
+		Immunoglobulin Language Model (IgLM), a deep generative language model for creating synthetic antibody libraries with now improved in silico developability profiles.
+			https://lnkd.in/d73iPmYs
+		deepsp, a deep learning method to predict the stability of monoclonal antibodies from sequence
+			Paper -> https://lnkd.in/guCHyf5e
+			Code -> https://lnkd.in/g495FShB
+		EvolveX: A pipeline for structure-based de novo design of antibodies (VHHs) against target epitopes
+			https://www.biorxiv.org/content/10.1101/2024.04.22.589762v1
+		A new era of antibody discovery: an in-depth review of AI-driven approaches
+			https://lnkd.in/d8k23Uen
+		AntiFold: Improved antibody structure-based design using inverse folding
+			Paper: https://lnkd.in/g4kWeP6D
+			Code: https://lnkd.in/gvBhHiCM
+			Server: https://lnkd.in/gEvue6dP
+			Colab Notebook: https://lnkd.in/gaQfuAN2
+		igdesign, a generative model for Ab CDR sequence design with experimentally-validated binders for 8 therapeutic antigens.
+			Paper: https://lnkd.in/gGBPSr-M
+			Code: Unavailable
+		IgDiff: De novo design of antibody variable regions using a diffusion model
+			Paper: https://lnkd.in/gfgV9eVR
+			Code: https://lnkd.in/geJ7Ucab
+		Accurate single domain scaffolding of three non-overlapping protein epitopes using deep learning
+			https://lnkd.in/dndNmSkb
+		GeoAB: In silico method for antibody design and rationalizing affinity maturation
+			Paper: https://lnkd.in/giKzN38X
+			Code: https://lnkd.in/gfRJS6aK
+
+			
+	#STRUCTURE
+		𝐭tfold-ab and 𝐭tfoldag𝐠: Methods for antibody and antibody-antigen complex modelling and design by Tencent
+			Paper -> https://lnkd.in/g_yW9APt
+			Code -> https://lnkd.in/gJ_ah4cS
+		De novo design of immunoglobulin-like domains
+			https://github.com/atom-moyer/stapler
+			https://github.com/emarcos/immunoglobulin_design
+		Computational design of non-porous, pH-responsive antibody nanoparticles
+		Computational design of epitope-scaffolds allows induction of antibodies specific for a poorly immunogenic HIV vaccine epitope
+		Mimicry of a Conformational State of an HIV-1 Neutralizing Determinant Through Computational Immunogen Design
+		Combinatorially restricted computational design of protein-protein interfaces to produce IgG heterodimers
+		A new era of antibody discovery: an in-depth review of AI-driven approaches
+		Antiformer:antibody and antigen complex 
+		h3-opt, a model for predicting antibody structures based on AlphaFold2 and a pre-trained protein language model
+			Paper -> https://lnkd.in/gNcFMRmb
+			Code -> https://lnkd.in/gi_-U2Hr
+		PAbFold: An AlphaFold2-based method for predicting antibody epitope from Ab and Ag sequences
+			Paper: https://lnkd.in/gYSyr_9a
+			Code: https://lnkd.in/gZxAZ_gd
+		ABodyBuilder3: Language model embeddings enable scalable and precise antibody structure prediction
+			Paper: https://lnkd.in/gBsJc3W7
+			GitHub: https://lnkd.in/gC76sc9z
+			Example (Notebook): https://lnkd.in/gTJQzf9q
+			ImmuneBuilder/ABodyBuilder2 Paper: https://lnkd.in/eSdmrXBb
+		FAbCon: Can antibody-specific generative foundation model facilitate antibody sequence understanding?
+			Paper: https://lnkd.in/gbPwJpaK
+			Models (huggingface): https://lnkd.in/gVGV8RKN
+		AsEP - Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction
+			https://lnkd.in/dGhW4-Pg
+			Github repo: https://lnkd.in/dFp-gg7z
+
+	#ANTIGEN ANALYSIS
+		ideb=https://www.iedb.org/
+		epitope=http://crdd.osdd.net/raghava/bcepred/bcepred_submission.html
+		AllerTrans: A Deep Learning Method for Predicting the Allergenicity of Protein Sequences
+		Computational detection of antigen-speciﬁc B cell receptors following immunization
+		conbotnet, a deep learning method for predicting MHC-II peptide binding affinity, binding cores, and anchor positions
+			Paper -> https://lnkd.in/g79vUhe3
+			Code -> https://lnkd.in/g4dBQZz8
+		vaccine designer, a suite of tools and webserver for epitope-based vaccine design
+			Paper -> https://lnkd.in/gQWEDPgV
+			Code -> https://lnkd.in/gFxcCntB
+			Webserver -> https://lnkd.in/gntjsNvZ
+		AllergeneAI, a neural network for predicting and quantifying protein allergenicity using amino acid sequence as input
+			Paper: https://lnkd.in/gGSBqb3x
+			Code, Data, Homepage: https://lnkd.in/gidtdUm2
+
+---------------------------
+
+#PYMOL MODULE
+	https://github.com/Pymol-Scripts/Pymol-script-repo #Collected scripts for Pymol
+	https://github.com/schrodinger/pymol-open-source #Open-source foundation of the user-sponsored PyMOL molecular visualization system
+	https://github.com/JinyuanSun/ChatMol #ChatGPT in PyMOL now!
+	https://github.com/cbalbin-bio/pymol-color-alphafold #PyMOL extension to color AlphaFold structures by confidence (pLDDT).
+	https://github.com/conda-forge/pymol-open-source-feedstock #conda pymol
+	https://github.com/jaredsampson/pymolprobity #A MolProbity-style visualization plugin for PyMOL
+	https://github.com/mtplr/pyMol-cookbook  #Some notes (cookbook) for pyMol. Protein Crystallography course.
+	https://github.com/ADplugin/ADplugin #Autodock/Vina plugin for PyMol by Daniel Seeliger
+	https://github.com/ssalentin/pymol-animations #Tutorials and examples for nicer animations (movies) and images in PyMOL.
+	https://github.com/rasbt/BondPack  #A collection of PyMOL plugins to visualize atomic bonds.
+	https://github.com/BIOS-IMASL/Azahar #A PyMOL plugin for construction, visualization and analysis of glycan molecules.
+	https://github.com/Valdes-Tresanco-MS/AMDock #AMDock: Assisted molecular docking with AutoDock4 and AutoDockVina
+	https://github.com/LongxingCao/pymol_scripts #bakerlab pymol scripts
+	https://github.com/sciapp/pyMolDyn #A molecule viewer with cavity computation
+	https://github.com/APAJanssen/Alphafold2import #PyMOL plugin to import Alphafold2 models
+	https://github.com/rrchaudhari/PyMine #A PyMOL plugin to integrate and visualize data for drug discovery
+	https://github.com/wrf/pdbcolor  #Python code to color a PDB structure based on parameters from a multiple sequence alignment
+	https://github.com/rdk/p2rank #P2Rank: Protein-ligand binding site prediction tool based on machine learning
+	https://github.com/ArturKlauser/pymol-pdb-plugin #pymol plugins
+	https://github.com/Cardypro/StructureAnalyzer #A program analyzing 3D protein structures from PDB to generate 2D binding motifs
+	https://github.com/fomightez/pymol-binder  #PyMOL able to be run via MyBinder.org
+	https://github.com/zmactep/pymol-gpt #Fast and dirty GPT injection into PyMOL
+	https://github.com/unizar-flav/PyViewDock #Docking viewer plug-in for PyMOL
+	https://github.com/loschmidt/caver-pymol-plugin #The CAVER PyMOL plugin enables calculation and visualization of tunnels in PyMOL using Caver 3.02
+	https://github.com/yakomaxa/PymolDesign #PymolDesign = ColabDesign + PymolFold
+	https://github.com/exTerEX/pymol-ramachandran #generate Ramachandran plot from Pymol.
+	https://github.com/cbalbin-bio/pymol-map-pocket #PyMOL extension to map a protein pocket, generated from PockDrug
+	https://github.com/yizaochen/pymol-make-movie # creating movies from MD trajectories using PyMOL
+	https://github.com/busrasavas/pymol-color-alphafold #PyMOL extension to color AlphaFold structures by confidence (pLDDT).
+	https://github.com/CraignRush/pymol_scripts #Scripts to automatize pymol rendering
+	https://github.com/ProteinDesignLab/visualize_violations #visualizing wrong/violated predictions in PyMol
+	https://github.com/atfrank/RNACavityMiner #Classifiers to Mine For Ligandable Binding Cavity in RNA
+	https://github.com/MooersLab/PyMOLwallhangings #making large scale images to be framed or for background images
+	https://github.com/connorb62/pyMOL #A Python Tool to Calculate Molecules, Electrons, Protons or Neutrons
+	https://github.com/yakomaxa/pyDSSP_PyMOL #call pyDSSP from PyMOL
+	https://github.com/LastCodeBender42/PyNA-4PSN?tab=readme-ov-file #PyMOL plugin for protein structure network analysis
+	https://github.com/EricChen521/pymol-for-structure-alignment #ligand alignment
+	https://github.com/moldis-group/pymoldis #A Python suite for Molecular Discovery using Quantum Chemistry Big Data
+	https://github.com/pkiruba/rmsd_using_pymol #RMSD using pymol align function
+	https://github.com/rezlaconic/pymol_scripts #useful scripts for pymol interaction analysis
+	https://github.com/zmactep/pymol-designer #Protein design tools as PyMOL plugin
+	https://github.com/bharurn/gmx2pymol #Handle Gromacs output file, and view it in PyMOL through a remote server
+	https://github.com/JMB-Scripts/Stride-to-Pymol #To assess the secondary structure of your protein with STRIDE in Pymol
+	https://github.com/DanielKostialik/Protein_alignment #Protein alignment, Python, PyMOL
+	https://github.com/jtprince/hydrogen_bondifier # hydrogen bond inter-molecular distances and distance to surface from PDB files using pymol and BioRuby
+	https://github.com/JMB-Scripts/dssp-to-pymol #Assess the secondary structure in Pymol
+	https://github.com/Alfredo-Elvis/batch-pdb-align #align protein pdb structures use pymol.
+	https://github.com/abdullateefv/PyMolCopilot #An AI Assistant for the PyMOL molecular visualization software
+	https://github.com/mabdulqader172/alphaParser #A python software to parse AlphaFold/ColabFold results into PyMOL PSE and PAE plots.
+
+---------------------------
+
+#VINA	
+	https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab06_docking.ipynb
+	https://github.com/RyanZR/labodock/tree/main/notebooks
+	https://colab.research.google.com/github/pb3lab/workshops/blob/main/tutorials/spb2022/D1_Tutorial2.ipynb
+	https://github.com/OSGConnect/tutorial-AutoDockVina #vina example
+	https://github.com/ccsb-scripps/AutoDock-Vina #tutorials for vina
+	https://github.com/Bioinformatics-Review/VS-Analysis #vina data analysis
+	https://github.com/aretasg/dockit #virtual screening by vina
+	https://github.com/andriusbern/vinaGPU #vina gpu
+	https://github.com/DeltaGroupNJUPT/Vina-GPU-2.1 
+	https://github.com/Fabien-Maury/virtual_screening #virtual screening by vina
+	https://github.com/sunghunbae/vinarun #best pose by vina
+	https://github.com/serenafrancisco/VinaScreenPy #virtual screening by vina
+	https://github.com/ShoabSaadat/iVina #vina for virtuall screening
+	https://github.com/Denizyo/Molecular-Docking_Bash-Scripts #vina dock tutorials
+	https://github.com/tavolivos/Virtual-screening-semi-flexible-with-Autodock-vina #vina flexible
+	https://github.com/sha256feng/Autodock-vina-example #vina tutorial
+	https://github.com/lmdu/dockey #an integrated tool for molecular docking and virtual screening
+	https://github.com/gazalk/vina_screen
+	vinagpu=Improved speed & accuracy are needed especially for virtual screening of large compound dbs.
+		Paper -> https://lnkd.in/gEEhQtWu
+		Code -> https://lnkd.in/gaSHFK4a
+---------------------------
+
+
+#RFDIFFUSION
+	De novo design of protein structure and function with RFdiffusion
+	Diffusing protein binders to intrinsically disordered proteins
+		https://lnkd.in/ebDG28gW
+
+---------------------------
+
+#AF
+	Alphafold Database=https://alphafold.ebi.ac.uk/
+	State-of-the-art estimation of protein model accuracy using AlphaFold
+	A structural biology community assessment of AlphaFold2 applications
+	Highly accurate protein structure prediction with AlphaFold
+	Protein Design Using Structure-Prediction Networks: AlphaFold and RoseTTAFold as Protein Structure Foundation Models 
+	AlphaFold two years on: validation and impact
+	Validation of de novo designed water-soluble and transmembrane β-barrels by in silico folding and melting
+	Evaluation of AlphaFold 3’s Protein–Protein Complexes for Predicting Binding Free Energy Changes upon Mutation
+	af2 for mutation=***
+		Paper -> https://lnkd.in/gRYNKgYf
+	AF3: for modeling all types of molecules
+		Paper: https://lnkd.in/gj7wYKae
+		AlphaFold Server: https://lnkd.in/gCAtVtJt
+		Blogs (Isomorphic Lab): https://lnkd.in/g4sfaCtR, https://lnkd.in/gPG7inUT
+	https://github.com/nickjf/pdb2af #Downloads protein structures from the AlphaFold Protein Structure Database that overlap with PDB
+	AlphaFold3 Score Visualizer
+		https://lnkd.in/dXKDArPf
+	alphaknot-2.0, a database and webserver for measuring entanglements in AlphaFold models 
+		Paper: https://lnkd.in/g2RSSY2W
+		Server: https://lnkd.in/gV8btxca
+		AlphaKnot 1.0: https://lnkd.in/gyMPYx-i
+---------------------------
+#ESM
+	esm3, a multimodal generative protein language model by a new startup 𝐄𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐚𝐫𝐲𝐒𝐜𝐚𝐥𝐞.
+		Paper: https://lnkd.in/gZwhXved
+		Model weight and code (esm3-open-small, 1.4B parameters): https://lnkd.in/gjb5dmAh
+		Homepage: https://lnkd.in/gertRvSe
+		API: https://lnkd.in/ghzzsUek
+	esmaa, the all-atom multi-scale version of Meta's ESM protein language model
+		Paper: https://lnkd.in/grfrjVEb (ArXiv), https://lnkd.in/gUs6SqYH (bioRxiv)
+		Code: https://lnkd.in/gAhaG62y
+			
+---------------------------
+
+
+#PROTEINMPNN
+	Improving protein expression, stability, and function with ProteinMPNN
+	Atomic context-conditioned protein sequence design using LigandMPNN
+	Robust deep learning–based protein sequence design using ProteinMPNN
+	Rapid and automated design of two-component protein nanomaterials using ProteinMPNN
+	Hallucinating symmetric protein assemblies
+		https://github.com/bwicky/oligomer_hallucination
+	https://github.com/dauparas/ProteinMPNN 
+	Inverse folding for antibody sequence design using deep learning
+	In vitro validated antibody design against multiple therapeutic antigens using generative inverse folding
+	Computational design of soluble analogues of integral membrane protein structures
+	Improving de novo protein binder design with deep learning
+	Improving Inverse Folding models at Protein Stability Prediction without additional Training or Data
+	Transfer learning to leverage larger datasets for improved prediction of protein stability changes
+	antibodympnn and inversefolding by MPNN
+		https://icml-compbio.github.io/2023/papers/WCBICML2023_paper61.pdf
+	proteinmpnn api:https://build.nvidia.com/ipd/proteinmpnn
+---------------------------
+
+#RNA
+	#DESIGN
+		RNA MODELLING=With the of release of RoseTTAFoldNA, and now ATOM-1, a whole new world of RNA-based therapeutics is being opened!
+			ATOM-1 -> https://lnkd.in/gEhz92aX
+		rnabench=a new library for RNA structure prediction and design ***
+			Paper -> https://lnkd.in/gBvqVnvi
+		rfamgen=(RNA family sequence generator): a generative model for designing functional RNA family sequences.***
+			Paper -> https://lnkd.in/gRsBHNFv
+			Code -> https://lnkd.in/gPXbpdPv
+		https://github.com/wilbertj8/rnaMPNN #Transfer learning ProteinMPNN to design sequences for RNA molecules
+		generRNA: A generative pre-trained language model for RNA design
+			Paper -> https://lnkd.in/gvxCH2SB
+			GitHub -> https://lnkd.in/gawSA8hi
+		dna-diffusion, a diffusion model to generate context-/cell type-specific DNA regulatory sequences
+			Paper -> https://lnkd.in/gjiPjvt8
+			Code -> https://lnkd.in/gsgdfjWB
+			Documentation -> https://lnkd.in/gkYTPiy8
+		grnade, the "ProteinMPNN for RNA sequence design"
+			Paper -> https://lnkd.in/gEY69ECp
+			Code -> https://lnkd.in/gFXGwruN
+			Notebook Tutorial -> https://lnkd.in/gMattZFm 
+			Notebook for Design -> https://lnkd.in/gyaSgF-h
+		RiboDiffusion:Tertiary Structure-based RNA Inverse Folding with Generative Diffusion Models
+			Code: https://lnkd.in/g6fpeNhn
+			Paper: https://lnkd.in/gj7YaaQU	
+		RNAFLOW, a flow-matching model for simultaneous design of RNA structure and sequence design conditioned on protein structure and sequence
+			Paper: https://lnkd.in/gThwCE-j
+			Code: https://lnkd.in/g3iTMG55
+			
+	#STRUCTURE
+		RNA3DB: A dataset for training and benchmarking deep learning models for RNA structure prediction
+			Paper -> https://lnkd.in/gMxZ9Z6H
+			Code -> https://lnkd.in/g7zDCqFg
+		RNAFOTMER: A Deep Learning Model for RNA Secondary Structure Prediction ***
+		Structural stability-aware deep learning: advancing rna secondary structure prediction
+		miRVim: Three-dimensional miRNA Structure Database
+		espdhot, an ensemble of ML models for predicting protein-DNA interaction hotspots
+			Paper: https://lnkd.in/gJf9sqFT
+			Code: https://lnkd.in/grHMjbdH
+		rnadifffold, a generative model for RNA secondary structure prediction.
+			Paper: https://lnkd.in/g4hsCj-V
+			Code: https://lnkd.in/gGqJg2Wu
+		autorna, a method for the prediction of RNA 3D structure using VAE
+			Paper: https://lnkd.in/gNNyuzfX
+			Code: https://lnkd.in/gkazpePn
+
+---------------------------
+
+#COLABFOLD
+	Easy and accurate protein structure prediction using ColabFold
+	ColabFold: making protein folding accessible to all
+	af2 and colabfold tutorial:
+		https://lnkd.in/dGE7ugnY
+		https://lnkd.in/dTu4kaVT
+		https://lnkd.in/diCg-kHD
+	sergey lab tools:https://www.solab.org/tools
+	check GPU:
+		activate the env
+		type python in cmd line
+		then type import torch
+		then type torch.cuda.is_available()
+
+
+---------------------------
+
+#SMALL MOLECULE
+
+	#DOCKING & SCRENNING # ALIGN & ANALYSIS
+		jamda:prtoein ligand docking= 
+			https://proteins.plus/help/jamda𝐫𝐤𝐟𝐥𝐨𝐰 𝐟𝐨𝐫
+			https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c01095 
+		SurfDock Paper -> https://lnkd.in/gJ45kVa7
+		packdock: A flexible docking method based on PackPocket, a diffusion-based side chain packing model***
+			Paper -> https://lnkd.in/gBX4h8AR
+			Code -> https://lnkd.in/gwAtfa-6
+		neural plexer: A tool for predicting protein–ligand complex structures using protein sequence and ligand molecular graph inputs***
+			Paper -> https://lnkd.in/gWuMqkQ4
+			GitHub -> https://lnkd.in/g_Mha9sH	
+		https://github.com/vibudh2209/D2 #Speed virtual screening by 50X
+		https://github.com/cosconatilab/PyRMD #AI-powered Virtual Screening
+		https://github.com/cansyl/DEEPScreen #DEEPScreen: Virtual Screening with Deep Convolutional Neural Networks			
+		trustaffinty: a sequence-based method for "trust-worthy" protein-ligand binding affinity prediction for out-of-distribution generalizations ***
+			Paper -> https://lnkd.in/gJHS9z9W
+		rdock=is a program for docking ligands to proteins and nucleic acids.
+			webpage -> https://rdock.github.io/
+			paper -> https://lnkd.in/entf4EAE
+		rxdock𝐨𝐜𝐤
+			webpage -> https://rxdock.gitlab.io/
+			GitLab -> https://lnkd.in/ekiegymP
+			GitHub -> https://lnkd.in/evrWwjtp
+			Docs -> https://lnkd.in/ePmbAFhB https://lnkd.in/eJksD446
+		dockopthttps://pubs.acs.org/doi/10.1021/acs.jcim.3c01406𝐭: A new automated pipeline for the creation, evaluation, and optimization of molecular docking models
+		fragsite=ligand virtual screening=𝐚𝐬𝐞𝐝 𝐚𝐩𝐩𝐫𝐨𝐚𝐜𝐡
+			Webserver -> https://lnkd.in/gh5cAN2h
+			Paper -> https://lnkd.in/gFq6pE9u
+		dynamicbind: A generative model and webserver for predicting ligand-specific protein-ligand complex structure
+			Webserver -> https://lnkd.in/e22VqnRG
+			Paper -> https://lnkd.in/eGMXVP7N
+			Code -> https://lnkd.in/eVJD7FwE
+		dockey: molecular docknig and virtual screening= 𝐢𝐫𝐭𝐮𝐚𝐥 𝐬𝐜𝐫𝐞𝐞𝐧𝐢𝐧𝐠
+			Paper -> https://lnkd.in/gYZmHZ69
+			GitHub -> https://lnkd.in/g5K8Wc2B
+			Docs -> https://lnkd.in/g_hHy-XS
+		Sub-Pocket EXplorer (SubPEx): a Weighted Ensemble Method to Enhance Binding-Pocket Conformational Sampling and virtual screening ***
+			Github repo: https://lnkd.in/d5jh57Ja
+		tinyIFD: A High-Throughput Binding Pose Refinement Workflow Through Induced-Fit Ligand Docking
+			https://lnkd.in/gPRmj7f5
+		rna-ligand docking=PLANTS, and LeDock performed best overall for NA-ligand modeling, even outpacing some specialized NA docking programs. ***
+			https://lnkd.in/dmygJjpS
+		umol=
+			https://github.com/patrickbryant1/Umol
+			https://www.biorxiv.org/content/10.1101/2023.11.03.565471v1
+		diffdock=
+			https://arxiv.org/abs/2210.01776
+			https://github.com/gcorso/DiffDock
+			Paper: https://lnkd.in/g52XPn7x
+			GitHub: https://lnkd.in/g9PYmijc
+			Colab: https://lnkd.in/ga5_heZe
+		pocketgen: A method for generating full-atom ligand-binding pockets to design small molecule-binding proteins
+			Paper -> https://lnkd.in/g2Ui982U
+			Code -> https://lnkd.in/gySheUKV
+			Website -> https://lnkd.in/g9PiA8Dz
+		diffdock-l, an improved version of DiffDock for blind docking
+			Demo/DiffDock-Web (HuggingFace) -> https://lnkd.in/g6gViPRU
+			Paper -> https://lnkd.in/gMS-37Nh
+			GitHub -> https://lnkd.in/gYdHtKd7
+		Learning motif-based graphs for drug–drug interaction prediction via local–global self-attention
+		Large Language Models as Molecular Design Engines
+		From Static to Dynamic Structures: Improving Binding Affinity Prediction with Graph-Based Deep Learning
+		magpie, an interactive tool for visualization and analysis of interactions between a protein/ligand and its binding partners
+			Paper -> https://lnkd.in/gaB-djMZ
+			Code -> https://lnkd.in/gC5kdURF
+		artidock, a DL model for protein-ligand docking that outperforms many classical and AI-based methods:
+			Paper -> https://lnkd.in/g8ihRR5W
+		drugdomain, a database of interactions between ECOD domains of human target proteins and DrugBank molecules
+			Paper -> https://lnkd.in/g-m3zibm
+			Database -> https://lnkd.in/gfxmKkec
+		large scale docking:A practical guide to large-scale docking
+			https://www.nature.com/articles/s41596-021-00597-z	
+		ChemGLaM, a language model for predicting compound-protein interaction based on a chemical language model (MoLFormer) and a protein language model (ESM-2)
+		prosmith, a multimodal network and webserver for predicting drug-target interaction/affinity, small-molecule enzyme substrate, and enzyme Km for target substrate
+			Paper: https://lnkd.in/gmpEEYbp
+			Code: https://lnkd.in/gTKVKwvi
+			Webserver: https://esp.cs.hhu.de
+		essence-dock, a consensus docking approach that combines multiple docking algorithms to improve enrichment of active compounds and decrease false positives
+			Paper: https://lnkd.in/g6nW7kws
+			Code: https://lnkd.in/gnRdyfVA	
+		colabind, a cloud-based method for predicting binding sites using CG MD simulations in the presence of chemical probes
+			Paper -> https://lnkd.in/gN6EZuwH
+			Code -> https://lnkd.in/gNTugRXJ
+			Notebook -> https://lnkd.in/g6ncXf92
+		G-PLIP, a knowledge GNN for structure-free protein-ligand interaction prediction
+			Paper: https://lnkd.in/gAvhNX6x
+			Code: https://lnkd.in/gqBfruEP	
+		CarsiDock integrates geometry optimization and energy minimization technique.
+			Paper: https://lnkd.in/geSyg8cW
+			Code: https://lnkd.in/ghuXH5Vf
+		BIND: A protein sequence-based method for forward and reverse structure-free virtual screening based on a protein language model 
+			Paper: https://lnkd.in/gZYUGMYC
+			Code: https://lnkd.in/gp_fJs7T	
+		PocketCFDM. Deep learning methods for predicting protein-ligand interactions 
+			Paper: https://lnkd.in/e4_Y48BM
+			GitHub: https://lnkd.in/eu4gGs4x
+		VirtualFlow2.0: An open-source drug discovery platform for ultra-large virtual screenings providing ready-to-dock Enamine's REAL Space 69 billion drug-like molecules
+			Paper: https://lnkd.in/gR-5Rqi9
+			Code: https://lnkd.in/g2nUDgWi
+			Homepage: https://virtual-flow.org/
+			Tutorials: https://lnkd.in/geG_Ubaz
+			Documentation: https://lnkd.in/gUwnCEUS
+		autodock-ss, a ligand-based virtual screening approach using adapted ligand grid maps and AutoDock-GPU with supports for single and multiple pre-aligned query ligands
+			Paper: https://lnkd.in/gEBZGqmX
+			Code: https://lnkd.in/gne6Fy4A
+		LP-PDBBind (Leak Proof PDBBind) - A Reorganized Dataset of Protein-Ligand Complexes for More Generalizable Binding Affinity Prediction
+			https://lnkd.in/dqxqpGuh
+			Github repo: https://lnkd.in/dz3jjcpm
+		DeepRLI - A Multi-objective Framework for Universal Protein–Ligand Interaction Prediction
+			https://lnkd.in/d5kMfgeh
+			Github repo: https://lnkd.in/dvj6RJfB
+		CLIPZyme- Reaction-conditioned virtual screening of enzymes
+			https://lnkd.in/dK_NjfkD
+		LAMBDAZERO- Generative active learning for the search of small-molecule protein binders
+			https://lnkd.in/dsVy6vu5
+		https://github.com/ambrishroy/LIGSIFT #LIGSIFT: An open-source tool for ligand structural alignment
+		https://github.com/gloglita/idock #idock is a multithreaded virtual screening tool for flexible ligand docking
+		https://github.com/jRicciL/ML-ensemble-docking #Structure-Based Virtual Screening with Ensemble Docking and Machine Learning
+		https://github.com/totient-bio/gatnn-vs # Ligand-based Virtual Screening Using Neural Representation Learning
+		https://github.com/JingHuangLab/EViS #Enhanced Virtual Screening Approach based on Pocket Ligand Similarity
+		https://github.com/rochoa85/dockECR # virtual screening of small molecules
+		https://github.com/CBDD/rDock #versatile Open Source docking program that can be used to dock small molecules against proteins and nucleic acids
+		https://github.com/filipsPL/fingernat-ml #SIFts- and ML-based methods in Virtual Screening for RNA binding ligands
+		https://github.com/SMU-CATCO/SmartCADD #an open-source virtual screening platform that combines deep learning, computer-aided drug design (CADD), and quantum mechanics methodologies
+		CHEMCH, a web-based predictive model for rapid detection of potential false positives in virtual screening
+			Paper: https://lnkd.in/gyVXWGN4
+			Server (Single query evaluation): https://lnkd.in/gk3DHZyC
+			Server (Screening): https://lnkd.in/gnmfZGHd
+			API Guide: https://lnkd.in/gVHdeytE
+			Documentation: https://lnkd.in/g9ZfApBq
+			GitHub: https://lnkd.in/gYN-_-Vs
+		fabind+, an improved version of FABind, for the prediction of protein-ligand binding based on pocket prediction and docking
+			Paper: https://lnkd.in/graxZhKR
+			Code: https://lnkd.in/gpn6WE4x
+			FABind Paper: https://lnkd.in/gmtfJbSc
+		pharmacore, an automatic workflow for generating 3D structure-based pharmacophore models of protein-ligand complexes
+			Paper: https://lnkd.in/gX45s4qi
+			Webserver: https://lnkd.in/gFYVEfgT
+		PoseBench - Deep Learning for Protein-Ligand Docking: Are We There Yet?
+			https://lnkd.in/ejyZNC4Q
+			Code: https://lnkd.in/eHKS_HZw
+			Doc: https://lnkd.in/eQHni2aZ
+		EDM-DOCK=Deep Learning Model for Flexible and Efficient Protein-Ligand Docking
+		DynamicBind: predicting ligand-specific protein-ligand complex structure with a deep equivariant generative model
+		helixdock=for protein-ligand docking
+			https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/molecular_docking/helixdock
+		A Hitchhiker’s Guide to Deep Chemical Language Processing for Bioactivity Prediction
+			https://lnkd.in/eW6yJtX8
+		z-align:a novel alignment method and web server that utilizes topological structural info to evaluate similarity between small molecules
+			Paper: https://lnkd.in/g5baBWwh
+			Preprint: https://lnkd.in/gbHzq4te
+			Server: https://lnkd.in/gn9QitZU
+		Deep contrastive learning enables genome-wide virtual screening
+		DTI-LM: Language Model Powered Drug-Target Interaction Prediction
+		
+	#DESIGN
+	combopath: A GNN-based model that predicts the combination effects of two drugs based on the interactions of each drug with its known target. ***
+		https://www.biorxiv.org/content/10.1101/2024.01.16.575408v1
+	alise: A three-stage Automated Ligand Searcher for computational drug discovery
+		Paper -> https://lnkd.in/gRYUi26X
+		VIKING -> https://viking-suite.com/	
+	Coscientist
+		Paper -> https://lnkd.in/gqF9CJcC
+		Code -> https://lnkd.in/gcQR_Q8Z
+	ChemCrow 
+		Paper -> https://lnkd.in/gUaHMdME
+		Code -> https://lnkd.in/gSmdJr2j
+	chemdataextractor: a chemistry-aware NLP toolkit was used to automatically generate a database of thermally activated delayed fluorescent (TADF) molecules.
+		Paper -> https://lnkd.in/gNGPaZJy
+		Code -> https://lnkd.in/gHJsDAXs
+	admet-ai= is a free, fast, and accurate AI-based platform
+		ADMET-AI:
+		Paper -> https://lnkd.in/g2QsEH78
+		Code -> https://lnkd.in/gvF2Xb-7
+		Webserver -> https://lnkd.in/g_rncncS
+	Chemprop:
+		Paper -> https://lnkd.in/gZxdYUx7
+		Code -> https://lnkd.in/gabP7j7M
+		Docs -> https://lnkd.in/gqs95H_U
+	ligandmpnn=
+		Colab Notebook: https://lnkd.in/dxWgKPnC 
+	SILCS-RNA: Toward a Structure-Based Drug Design Approach for Targeting RNAs with Small Molecules
+		https://lnkd.in/dkrKBkJr
+	Allostery Illuminated: Harnessing AI and Machine Learning for Drug Discovery
+	Accelerating drug discovery and repurposing by combining transcriptional signature connectivity with docking
+	Generative Deep Learning-Based Efficient Design of Organic Molecules with Tailored Properties
+		https://software.zbh.uni-hamburg.de/
+	drug design=cligopt, a fragment-based drug design model to generate ligands with desired properties from a given fragment pair
+		Paper -> https://lnkd.in/gB_HzUbZ
+		Code -> https://lnkd.in/gqDyfTCJ
+	synthemol, a generative AI model for designing novel synthesizable compounds with antibacterial activity
+		Paper -> https://lnkd.in/gGSDmYis
+		Code -> https://lnkd.in/gCBP4pjy
+	pmdm, a diffusion model for generating 3D ligands given a target protein pocket
+		Paper -> https://lnkd.in/gFPBmc-K
+		Code -> https://lnkd.in/gTT3iyxW
+	af2 for drug discovery:
+		Evaluation of AlphaFold2 Structures for Hit Identification across Multiple Scenarios
+	dlip: A chemical database of molecules targeting protein-protein interactions
+		Paper: https://lnkd.in/gX3pvYcb
+		Web interface: https://lnkd.in/gkyuKMSB
+	qfasg, an automated method developed by Insilico medicine to construct ligands for a target protein from a library of molecular fragments.
+		Paper: https://lnkd.in/gYqQqSwg
+	small molecule design: MolCRAFT
+		https://lnkd.in/dux4ftXi
+		GitHub repo: https://lnkd.in/dcMx4cs2
+	AlphaFold meets de novo drug design: leveraging structural protein information in multi-target molecular generative models:
+		https://lnkd.in/dZi4mJZV
+		https://lnkd.in/dNYFpVhv
+	REINVENT is a molecular design tool for; 
+		-de novo design
+		-scaffold hopping
+		-R-group replacement, linker design
+		-molecule optimization, and other small molecule design
+		https://lnkd.in/dsMeFN2s
+	SwissDock2024, the latest version of the web-based molecular docking tool.
+		Paper: https://lnkd.in/gG4DF43j
+		Webserver: https://www.swissdock.ch/
+		Command-line access: https://lnkd.in/g3FHQAav
+		Older version: http://old.swissdock.ch/
+	ReverseDock, a Vina-based tool and webserver for reverse blind docking of a ligand to multiple protein receptors
+		Paper: https://lnkd.in/gbxus5mY
+		Webserver: https://lnkd.in/g75TAYcJ
+		Repos: https://lnkd.in/gshgn8Nm
+	PIDM: A physics-informed diffusion-based model for generating drug-like conformers of molecules
+		Paper: https://lnkd.in/gUxnBJhW
+		Code: https://lnkd.in/g5ZtXhtx
+	dragonfly, an approach using interactome-based deep learning for ligand- and structure-based generation of drug-like molecules
+		Paper: https://lnkd.in/gTan9wRJ
+		Code: https://lnkd.in/gWi9uVaB
+	POLYGON - De novo generation of multi-target compounds using deep generative chemistry
+		https://lnkd.in/dFqxZ_kW
+		Code: https://lnkd.in/dxwAi5Bv
+	https://github.com/garywei944/FMol #drug discovery pipeline -- generating SMILE molecular with AlphaSMILES, predicting protein structure with AlphaFold, and checking the druggability with fpocket/Amber
+	fraggrow, a webserver for structure-based drug design via fragment growing
+		Paper: https://lnkd.in/ghtFEVGJ
+		Webserver: https://lnkd.in/gm4s9dbF
+	molmoda, a web browser-based molecular docking platform
+		Paper: https://lnkd.in/gb_8Vicw
+		Web interface: https://lnkd.in/gv492FpB
+		Code: https://lnkd.in/gKBHEhwy
+		Documentation: https://lnkd.in/gDZy5FAK
+		Tutorials: https://lnkd.in/gCvfUYM3
+	MolSnapper, a diffusion model for molecule generation that integrates expert knowledge based on 3D pharmacophores (reference points)
+		Paper: https://lnkd.in/gZYNEgta
+		Code: https://lnkd.in/gCZGFk5P
+		Blog: https://lnkd.in/ghhdaGY8
+		
+	#DATABASE
+		zinck=https://zinc.docking.org/
+		CarcinoPred-EL:Carcinogenicity prediction for assessing the toxicity of molecules using Ensemble Learning methods
+		drug banks:chembl,drug bank, central drug, bindingdb, selleckchem,ChemSpider,SciFinder-n,SureChEMBL,UniChem,https://med.stanford.edu/htbc/compounds.html,medchemexpress,targetmol,zinc,ChemRxiv,http://repharma.pku.edu.cn/screening_databases.html,https://gdb.unibe.ch/tools/
+		https://github.com/quantaosun/Zinc-Million #zinc molecules download
+		GDSC PharmacoGX: drug resistance in cancer 
+
+
+
+---------------------------
+
+#ROSETTA
+	online rosetta=https://rosie.graylab.jhu.edu/
+	RoseTTAFoldNA
+		Paper -> https://lnkd.in/gCSFuHxS
+		Code -> https://lnkd.in/gsFzeKn2
+	rosetafold
+		Paper -> Accurate prediction of protein structures and interactions using a three-track neural network https://lnkd.in/db9Q5CbM
+		Code -> https://lnkd.in/db-RbNBc
+		Webserver -> https://lnkd.in/dJXRNKqf
+	rosettafold2:
+		Efficient and accurate prediction of protein structure using RoseTTAFold2
+		Computed structures of core eukaryotic protein complexes
+	RoseTTAFoldNA=Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA
+	Generalized Biomolecular Modeling and Design with RoseTTAFold All-Atom:
+		Paper -> https://lnkd.in/gaW_vfB2
+		https://github.com/baker-laboratory/RoseTTAFold-All-Atom
+		https://lnkd.in/eG4FMzjQ		
+	LightRoseTTA: High-efficient and Accurate Protein Structure Prediction Using an Ultra-Lightweight Deep Graph Model
+		https://lnkd.in/eFJUKAG3
+	REvoLd - Ultra-Large Library Screening with an Evolutionary Algorithm in Rosetta
+	https://lnkd.in/dcJMhzne
+	https://github.com/RosettaCommons/PyRosetta.notebooks/tree/master #rosetta notebooks
+	rosetta design tutorial:
+		https://youtube.com/playlist?list=PLFavr8uo6kSqDB1cbXUDFZSooNk537teC&si=4wQHN5bafI9HRMa3
+		https://rosettacommons.github.io/PyRosetta.note
+
+
+---------------------------
+
+#GPT FOR MOLECULES:
+	BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining; ***
+		https://github.com/microsoft/BioGPT 
+	chatmol=chatgpt for pymol
+	autoab: the 1st autonomous AI agent for fully automated multi-omics analyses
+	genegpt, a method that prompts LLMs to utilize the Web APIs of NCBI to answer genomics questions
+		Paper -> https://lnkd.in/eWeS3uSK
+		Code -> https://lnkd.in/eMWAHy5g
+	chatgpt for molecular modelling: Paper -> https://lnkd.in/gRjTpeb5
+	ShellCheck=a very useful tool that will not only save you from hours of frustration, but also help you improve your scripting skills.
+		GitHub: https://lnkd.in/gmWgzyjd
+		Web version: https://lnkd.in/geMepk4T
+		scGPT: toward building a foundation model for single-cell multi-omics using generative AI:
+			https://github.com/bowang-lab/scGPT
+		GPT-4 for single cell:
+			https://www.nature.com/articles/s41592-024-02235-4
+		SaProt - Protein Language Modeling with Structure-aware Vocabulary
+			https://lnkd.in/dAieyUvp
+			Github repo: https://lnkd.in/dY54-M4G
+		chatgpt for crispr:https://www.nature.com/articles/d41586-024-01243-w
+		ProteinGPT, a new era of user-friendly protein analysis:
+
+
+---------------------------
+
+#ESSENTILA PACKAGES
+	bio2byte
+	melodia
+	MolX
+	gromacs new
+	g_elpot
+	gromacs 2018
+	g++
+	gcc
+	cmake
+	gmeasure
+	pymod
+	pymol 
+	pymol plugin
+	vmd
+	new vmd for md
+	chimerax
+	yasra
+	foldx
+	SciPy 
+	discovery studio
+	hyperchem
+	gussian
+	colabfold
+	colabdesign
+	colabdock
+	diffdock
+	umol
+	autodock
+	vina
+	rifdock
+	rpxdcock
+	modeller
+	R
+	rstudio
+	mega
+	snapgene
+	oligo7
+	ROSETTA
+	ROSETTA2018
+	sequncing tools
+	schrodinger
+	mgltools
+	modeller
+	python2 & 3
+	perl
+	notepad++
+	conda
+	cuda
+	nvtop
+	anydesk
+	pymol gromacs plugin
+	rfdifussion
+	protein mpnn
+	chroma
+	chatgpt
+	gromacs outdata forcefield (charmm36)
+	liganmpnn
+	flexddg
+	dockq
+	circle theme
+	igv
+	fastqc
+	bwtie
+	samtools
+	bamtools
+	pytorch
+	notebook
+	ambertools
+	packmol
+	pmx
+	esmfold
+	bioconda
+	biopython
+	310ai
+	gemini
+	rosetafold
+	rosetafold all atom
+	rosetafoldna
+	codon optimization
+	dssp
+	gmpbsa
+	entropy for gromacs
+	chatmol plugin pymol
+	biogpt
+	pymolfold
+	ChemCrow
+	chemdraw
+	viamd
+	pip
+	grace
+	chrome
+	seurat
+	SRA-toolkit
+	osprey
+	gmx_MMPBSA
+	af3
+	FASTX-toolkit
+	MDAnalysis
+	gmxtools
+	fretlabel
+	wedap
+	Pyemma
+	MunibaFaiza-FEL
+	PDBImages
