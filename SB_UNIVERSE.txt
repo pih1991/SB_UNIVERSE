@@ -1,37 +1,24 @@
-#FIRST OF ALL BEFORE ONSET A PROJECT COMPLY BELOW TIPS:
+#FIRST OF ALL BEFORE ONSET OF A PROJECT COMPLY BELOW TIPS:
 	1-PROVIDE A STUDY DESIGN BY CHATGPT, BIOGPT, CLAUDE AI, AND OTHER AI MODELS.
-	2-READ A STUDY FROM A FAMOUS PROFESSOR INRELATED FIELD
+	2-READ A STUDY FROM A FAMOUS PROFESSOR IN RELATED FIELD
 	3-WRITE A STUDY PLAN
 	4-CHECK GITHUB AND PAPER DATABASES
-	5-READ PAPERS OF FAMOUS RESEARCHER IN GOOGLE SCHOLAR
+	5-READ PAPERS OF FAMOUS RESEARCHERS IN GOOGLE SCHOLAR
 	6-ROSETTA TUTORIALS
 
 ---------------------------
 
-#FAMOUS RESEARCHER:
+#SB RESEARCHER:
 	David Baker
 	Sergey Ovchinnikov
 	Abeeb Abiodun Yekeen
 	Samee Ullah
-	Hamid D. Ismail
 	Alexander D. MacKerell Jr
 	Rhiju Das
 	Kalli Kappel
 	Joseph D. Yesselman
 
----------------------------
-
-#GROUP
-	https://t.me/BioinformaticsVIP_Group
-	https://t.me/+zYgATxVGm384ZGRk
-	@computational_sceince
-	https://t.me/+AL7RKhKS6b4zNzY8
-	https://t.me/joinchat/Cxi2HD8b0kX0Jt6Dg01kpA
-	@ali13024
-	https://t.me/+Ux9_oeiYBRxwDaQD
-	https://t.me/+TUT4kMG1slKB3ZiZ
-
----------------------------
+-------------------------
 
 #DATABASE FOR GENE AND PROTEIN 
 	charmmgui=https://www.charmm-gui.org/
